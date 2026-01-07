@@ -1,0 +1,10 @@
+[
+  {
+    "subject": "mat",
+    "dicas": {
+      "baixa": "Sua média está muito baixa, e isso é um problema <b class='user'></b> <br /> <br /> <b class='user'></b>, Considere as dicas abaixo pra subir a sua nota em Matemática: <ul> <li> 📌 Comece  por perceber onde tem errado. Não se pode corrigir um erro ser saber qual é. </li> <li> 📌 Após à identificação do problema, procure estudar sobre o assunto, não decore apenas, entenda o 'Porquê' de cada coisa.</li> <li> 📌 Peça ajuda, não se orgulhoso (a), pedir ajuda pra alguém que domine os conteúdos é uma das melhores formas de dominares também - ( Quem não se envolve, não desenvolve! ) </li>  <li> 📌 Estude com frequência. Não adianta aglomerar a matéria pra estudar um dia antes à prova. Isso prehudic</li>  </ul>",
+      "media": "Sua nota está na média, mas ainda pode melhorar! ",
+      "acima": "Sua nota está muito acima da média."
+    }
+  }
+]

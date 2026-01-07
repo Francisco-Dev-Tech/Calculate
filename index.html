@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>
+    NCI - Monitore seu Progresso
+  </title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+   <section class="alerta" id="alerta1">
+      <p>
+        Média calculada com sucesso!
+        <button class="mais maisEl" onclick="ExibirClass()">
+          Mais ↓
+        </button>
+      </p>
+      
+    </section>
+       <section class="alerta" id="alerta2">
+      <p>
+        Média calculada com sucesso!
+        <button class="mais maisEl" onclick="ExibirClass()">
+          Mais ↓
+        </button>
+      </p>
+      
+    </section>
+   <section class="alerta" id="alerta3">
+      <p>
+        Média calculada com sucesso!
+        <button class="mais maisEl" onclick="ExibirClass()">
+          Mais ↓
+        </button>
+      </p>
+      
+    </section>
+    <section class="alerta" id="alerta4">
+     <p>
+       Média calculada com sucesso!
+       <button class="mais maisEl" onclick="ExibirClass()">
+         Mais ↓
+       </button>
+     </p>
+     
+   </section>
+    
+  <section id="bg">
+  
+  </section>
+
+  
+  <div id="process">
+    <span>
+      
+    </span>
+  </div>
+  
+  <div id="formDiv">
+    <form id="form">
+    <h1>
+      Bem Vindo(a)!
+    </h1>
+    
+    <input type="text" name="" id="nome" placeholder="Digite primeiro nome..."  required maxlength="18" minlength="3"/>
+    <input type="submit" value="Avançar" id="submit"/>
+    
+    <p id="text">
+      Preencha o fórmulario acima pra melhoria da experiência de usuário 
+    </p>
+    </form>
+   
+  </div>
+      <h3 id="welcome">
+        
+      </h3>
+    <main id="calc">
+      <div id="top">
+          <select id="curso" value="curso">
+          <option class="curso" value="el">
+            El. Telecon
+          </option>
+          <option class="curso" value="info"> Informática
+          </option>
+        </select>
+        
+        <select id="classe" value="classe">
+          <option value="10" class="classe">
+            10ª classe
+          </option>
+          <option value="11" class="classe">
+            11ª classe
+          </option>
+        </select>
+      </div>
+      
+       <span id="textInfo">
+            Insira suas notas abixo, saiba sua média e receba dicas pra melhorar em tudo.
+        </span>
+      <section id="forms">
+        <div id="el10">
+    
+          <label for="mat">
+            Matemática
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="mat"/>
+          </label>
+          
+          <label for="fisica">
+            Física
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="fisica"/>
+          </label>
+          <label for="quim">
+            Química
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="quim" />
+          </label>
+          
+          <label for="pol">
+            Práticas Oficinais Laboratoriais (POL)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="pol" />
+          </label>
+          
+          <label for="fai">
+            Formação de Atitudes Integradoras (FAI)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="fai" />
+          </label>
+          
+          <label for="edf">
+            Educação Física
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="edf" />
+          </label>
+          
+          <label for="ingl">
+            Inglês
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="ingl" />
+          </label>
+          
+          <label for="port">
+            Língua Portuguêsa
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="port" />
+          </label>
+          
+          <label for="ttl">
+            Tecnologia de Telecomunicações (TTL) 
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="ttl" />
+          </label>
+          
+          <label for="infor">
+            Informática
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="infor" />
+          </label>
+          
+          <label for="el">
+            Electricidade e Electrónica (EEL)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="el" />
+          </label>
+          
+          <label for="emp">
+            Empreendedorismo
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="emp" />
+          </label>
+          <button class="typeEl" type="button" onclick="El10()">
+            Processeguir
+            <i class="processB" id="pel10"></i>
+          </button>
+        </div>
+        
+        
+        
+        <div id="el11">
+          
+          <label for="mat1">
+            Matemática
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="mat1"/>
+          </label>
+          
+          <label for="fisica1">
+            Física
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="fisica1"/>
+          </label>
+          <label for="quim1">
+            Química
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="quim1" />
+          </label>
+          
+          <label for="pol1">
+            Práticas Oficinais Laboratoriais (POL)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="pol1" />
+          </label>
+          
+          <label for="fai1">
+            Formação de Atitudes Integradoras (FAI)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="fai1" />
+          </label>
+          
+          <label for="edf1">
+            Educação Física
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="edf1" />
+          </label>
+          
+          <label for="ingl1">
+            Inglês
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="ingl1" />
+          </label>
+          
+          <label for="port1">
+            Língua Portuguêsa
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="port1" />
+          </label>
+          
+          <label for="ttl1">
+            Tecnologia de Telecomunicações (TTL) 
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="ttl1" />
+          </label>
+          
+          <label for="sd1">
+            Sistemas Digitais (SD)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="sd1" />
+          </label>
+          
+          <label for="el1">
+            Electricidade e Electrónica (EEL)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="el1" />
+          </label>
+          
+          <label for="emp1">
+            Empreendedorismo
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="emp1" />
+          </label>
+
+          <label for="dt1">
+            Desenho Técnico (DT)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="dt1" />
+          </label>
+          <button class="typeEl" type="button" id="bel11" onclick="El11()">
+            Processeguir
+            <i class="processB" id="pel11"></i>
+          </button>
+        </div>
+        
+        
+        <div id="info10" >
+         
+          <label for="mat2">
+            Matemática
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="mat2"/>
+          </label>
+          
+          <label for="fisica2">
+            Física
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="fisica2"/>
+          </label>
+          <label for="quim2">
+            Química
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="quim2" />
+          </label>
+          
+          <label for="tic2">
+            Tecnologias de Informação e Comunicação (TIC)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="tic2" />
+          </label>
+          
+          <label for="fai2">
+            Formação de Atitudes Integradoras (FAI)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="fai2" />
+          </label>
+          
+          <label for="edf2">
+            Educação Física
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="edf2" />
+          </label>
+          
+          <label for="ingl2">
+            Inglês
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="ingl2" />
+          </label>
+          
+          <label for="port2">
+            Língua Portuguêsa
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="port2" />
+          </label>
+          
+          <label for="tlp2">
+            Tecnologia de Linguagens de Programação (TLP) 
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="tlp2" />
+          </label>
+          
+          <label for="seac2">
+            Sistemas de Exploração Arquitetuera do Computador (SEAC)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="seac2" />
+          </label>
+          
+          <label for="elctr2">
+            Electrotecnia
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="elctr2" />
+          </label>
+          
+          <label for="emp2">
+            Empreendedorismo
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="emp2" />
+          </label>
+          <button class="typeInfo" type="button" id="binfo10" onclick="Info10()">
+            Processeguir
+            <i id="pinfo10" class="processB"></i>
+          </button>
+        </div>
+        
+        
+        <div id="info11">
+                   
+          <label for="mat3">
+            Matemática
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" min="0" max="20" class="subjects" id="mat3"/>
+          </label>
+          
+          <label for="fisica3">
+            Física
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="fisica3"/>
+          </label>
+          <label for="quim3">
+            Química
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="quim3" />
+          </label>
+          
+          <label for="tic3">
+            Tecnologias de Informação e Comunicação (TIC)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="tic3" />
+          </label>
+          
+          <label for="fai3">
+            Formação de Atitudes Integradoras (FAI)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="fai3" />
+          </label>
+          
+          <label for="edf3">
+            Educação Física
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="edf3" />
+          </label>
+          
+          <label for="ingl3">
+            Inglês
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="ingl3" />
+          </label>
+          
+          <label for="port3">
+            Língua Portuguêsa
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="port3" />
+          </label>
+          
+          <label for="tlp3">
+            Tecnologia de Linguagens de Programação (TLP) 
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="tlp3" />
+          </label>
+          
+          <label for="seac3">
+            Sistemas de Exploração Arquitetuera do Computador (SEAC)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="seac3" />
+          </label>
+          
+          <label for="elctr3">
+            Electrotecnia
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="elctr3" />
+          </label>
+          
+          <label for="emp3">
+            Empreendedorismo
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="emp3" />
+          </label>
+          
+          <label for="dt3">
+            Desenho Técnico (DT)
+            <input type="number" placeholder="Insira a nota (0 - 20)" min="0" max="20" class="subjects" id="dt3" />
+          </label>
+          <button class="typeInfo" type="button" id="binfo11" onclick="Info11()">
+            Processeguir
+            <i class="processB" id="pinfo11"></i>
+          </button>
+        </div>
+     <div id="resultado">
+       
+     </div>
+      </section>
+    </main>
+    
+    <div id="error" onclick="ErroNo()">
+      <section>
+        <h4>
+          Aviso!
+        </h4>
+        <p id="aviso">
+        
+        </p>
+        <button onclick="ErroNo()">
+          Entendido
+        </button>
+      </section>
+    </div>
+    <div id="setDica">
+      <button id="exit" title="Sair" onclick="Exit1()">
+        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="white" class="bi bi-box-arrow-left" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M6 12.5a.5.5 0 0 0 .5.5h8a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-8a.5.5 0 0 0-.5.5v2a.5.5 0 0 1-1 0v-2A1.5 1.5 0 0 1 6.5 2h8A1.5 1.5 0 0 1 16 3.5v9a1.5 1.5 0 0 1-1.5 1.5h-8A1.5 1.5 0 0 1 5 12.5v-2a.5.5 0 0 1 1 0z" />
+          <path fill-rule="evenodd" d="M.146 8.354a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L1.707 7.5H10.5a.5.5 0 0 1 0 1H1.707l2.147 2.146a.5.5 0 0 1-.708.708z" />
+        </svg>
+      </button>
+      
+      <section id="card">
+        <h1 id="dicaHello">
+           Saiba agora como ser o Rei da Matemática! 📌
+        </h1>
+        <p id="dd">
+          Alavanque seu desempenho com as dicas abaixo! 
+        </p>
+        <p id="newDica">
+          
+        </p>
+      </section>
+    </div>
+      <button class="exit" title="Sair" onclick="Exit()">
+        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="white" class="bi bi-box-arrow-left" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M6 12.5a.5.5 0 0 0 .5.5h8a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-8a.5.5 0 0 0-.5.5v2a.5.5 0 0 1-1 0v-2A1.5 1.5 0 0 1 6.5 2h8A1.5 1.5 0 0 1 16 3.5v9a1.5 1.5 0 0 1-1.5 1.5h-8A1.5 1.5 0 0 1 5 12.5v-2a.5.5 0 0 1 1 0z" />
+          <path fill-rule="evenodd" d="M.146 8.354a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L1.707 7.5H10.5a.5.5 0 0 1 0 1H1.707l2.147 2.146a.5.5 0 0 1-.708.708z" />
+        </svg>
+      </button>
+      
+    <section class="classific">
+      
+      <div class="data">
+      <h2 id="titleClassific">
+        Olá <b id="t" class="user"></b>. Aqui estão os dados processados!
+      </h2>
+      <p>
+        <b class="user"></b>, sua média está entre os <b id="intervalo"></b> valores. <b id="considerado"></b>
+      </p>
+      <p>
+        Média calculada: <b id="mediaCalculada"></b>.
+      </p>
+      <p>
+        Seu curso: <b id="spaceCurso"></b>
+      </p>
+      <p>
+        Sua Classe: <b id="spaceClasse"></b>
+      </p>
+      <p>
+        <b class="user"></b>, mais abaixo, você receberá dicas preciosas pra melhorar consideravelmente em todas as cadeiras. Confiara já!
+      </p>
+      <h3 class="spaceDicas">
+        Dicas pra alavancar seu Desempenho📚
+      </h3>
+      <section class="spaceDicas" id="dicas">
+
+      </section>
+      </div>
+      
+    
+    </section>
+
+  <script src="main.js"></script>
+</body>
+</html>
