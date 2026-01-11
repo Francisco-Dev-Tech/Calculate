@@ -97,7 +97,7 @@
 
 {
   "cat": "info10",
-  "subject": "quim2 um",
+  "subject": "quim2",
   "dicas": {
     "baixa": "<p> Sua média em Química da 10ª classe está baixa, e isso é um sinal para agir! <b class='user'></b> ⚠️</p> <p><b class='user'></b>, não desanima! Basta ajustar a forma de estudar. Aqui vão dicas que vão te levantar:</p> <ul> <li>📘 Revise bem os conceitos básicos: ligações químicas, tabela periódica e modelos atômicos.</li> <li>🧪 Faça exercícios simples primeiro, depois avance para reações e cálculos.</li> <li>📋 Crie resumos e mapas mentais dos elementos e suas propriedades.</li> <li>🤝 Estude com colegas e compare resoluções.</li> </ul>",
 
@@ -404,8 +404,17 @@
   }
 },
 {
-  "cat": "el11",
+  "cat": "info10",
   "subject": "tlp2",
+  "dicas": {
+    "baixa": "<p>Sua média em Tecnologias de Linguagens de Programação está baixa, <b class='user'></b>, mas é possível melhorar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Reforce conhecimentos em linguagens de programação (C++, Java, Python).</li> <li>Pratique desenvolvimento de projetos de software.</li> <li>Estude estruturas de dados e algoritmos.</li> <li>Converse com o professor para orientação direta.</li> </ul>",
+    "media": "<p>Seu desempenho em Tecnologias de Linguagens de Programação é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Aprofunde conhecimentos em desenvolvimento web (HTML, CSS, JavaScript).</li> <li>Desenvolva projetos de aplicativos móveis.</li> <li>Participe de workshops e cursos online.</li> <li>Melhore habilidades em banco de dados e SQL.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Tecnologias de Linguagens de Programação, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, para evoluir ainda mais:</p> <ul> <li>Desenvolva projetos de inteligência artificial e machine learning.</li> <li>Aprenda sobre segurança cibernética e proteção de dados.</li> <li>Participe de competições de programação.</li> <li>Mentore colegas com dificuldades.</li> </ul>"
+  }
+},
+{
+  "cat": "info11",
+  "subject": "tlp3",
   "dicas": {
     "baixa": "<p>Sua média em Tecnologias de Linguagens de Programação está baixa, <b class='user'></b>, mas é possível melhorar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Reforce conhecimentos em linguagens de programação (C++, Java, Python).</li> <li>Pratique desenvolvimento de projetos de software.</li> <li>Estude estruturas de dados e algoritmos.</li> <li>Converse com o professor para orientação direta.</li> </ul>",
     "media": "<p>Seu desempenho em Tecnologias de Linguagens de Programação é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Aprofunde conhecimentos em desenvolvimento web (HTML, CSS, JavaScript).</li> <li>Desenvolva projetos de aplicativos móveis.</li> <li>Participe de workshops e cursos online.</li> <li>Melhore habilidades em banco de dados e SQL.</li> </ul>",
