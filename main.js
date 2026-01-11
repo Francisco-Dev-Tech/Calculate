@@ -1,7 +1,13 @@
 const form = document.getElementById('form');
 
 
+const card = document.getElementById("card");
+
+const dicaHello = document.getElementById("dicaHello");
+
 const setDica = document.getElementById('setDica');
+
+const cad = document.getElementById("cad");
 
 const newDica = document.getElementById("newDica");
 
@@ -411,6 +417,10 @@ function Select(nome) {
     
     initialCurso = curso.value;
     
+    card.style.background = (initialCurso === "el") ? "linear-gradient(to bottom, #ffffff, #eaf2ff)" : "linear-gradient(to bottom, #ffffff, #EAFFEE)";
+    
+    dicaHello.style.background = (initialCurso === "el")? "linear-gradient(120deg, rgba(2, 21, 96, 1), #0014C5)":"linear-gradient(120deg, rgba(1, 89, 7, 1), rgba(54, 197, 0, 1))";
+    
     titleClassific.style.background = (initialCurso === "el")? "linear-gradient(120deg, rgba(2, 21, 96, 1), #0014C5)":"linear-gradient(120deg, rgba(1, 89, 7, 1), rgba(54, 197, 0, 1))";
     alertas.forEach(alerta => {
       
@@ -455,6 +465,8 @@ function Select(nome) {
     spaceDicas.forEach(dica => {
       dica.style.background = (initialCurso === "el")?"#F6FCFF":"#F8FFF6";
     })
+    
+  
     
   titleClassific.style.background = (initialCurso === "el")? "linear-gradient(120deg, rgba(2, 21, 96, 1), #0014C5)":"linear-gradient(120deg, rgba(1, 89, 7, 1), rgba(54, 197, 0, 1))";
   
@@ -511,7 +523,7 @@ function El10() {
       count += nota;
       classific[subject] = nota;
     }else{
-      console.log(`Erro => ${subjects[subject]}`)
+      
       const cad = subjects[subject]
       if(cad !== undefined && cad !== null && cad) 
       {
@@ -521,9 +533,7 @@ function El10() {
     }
   }
   
-  for(let c in classific) {
-    console.log(c + ": "+classific[c]);
-  }
+
   Classicado(classific);
   
   
@@ -571,20 +581,14 @@ function El10() {
       }, 300)
     }
         }
-      }else{
-        console.log("No enc");
       }
     })
         }, 200)
       }, 900)
       
-      console.log("Processador Encontrado");
-      
       
       return;
       
-    }else{
-      console.log("Processador não encontrado")
     }
     
   })
@@ -606,7 +610,6 @@ function El11() {
       count += nota;
       classific1[subject] = nota;
     }else{
-      console.log(`Erro => ${subjects1[subject]}`)
       const cad = subjects1[subject]
       if(cad !== undefined && cad !== null && cad) 
       {
@@ -616,9 +619,7 @@ function El11() {
     }
   }
   
-  for(let c in classific1) {
-    console.log(c + ": "+classific1[c]);
-  }
+
   Classicado(classific1);
   
   
@@ -666,20 +667,14 @@ function El11() {
       }, 300)
     }
         }
-      }else{
-        console.log("No enc");
       }
     })
         }, 200)
       }, 900)
       
-      console.log("Processador Encontrado");
-      
       
       return;
       
-    }else{
-      console.log("Processador não encontrado")
     }
     
   })
@@ -704,7 +699,7 @@ function Info10() {
       count += nota;
       classific2[subject] = nota;
     }else{
-      console.log(`Erro => ${subjects2[subject]}`)
+
       const cad = subjects2[subject]
       if(cad !== undefined && cad !== null && cad) 
       {
@@ -714,9 +709,7 @@ function Info10() {
     }
   }
   
-  for(let c in classific2) {
-    console.log(c + ": "+classific2[c]);
-  }
+
   Classicado(classific2);
   
   
@@ -764,22 +757,15 @@ function Info10() {
       }, 300)
     }
         }
-      }else{
-        console.log("No enc");
       }
     })
         }, 200)
       }, 900)
       
-      console.log("Processador Encontrado");
-      
       
       return;
       
-    }else{
-      console.log("Processador não encontrado")
     }
-    
   })
   
     
@@ -801,7 +787,7 @@ function Info11() {
       count += nota;
       classific3[subject] = nota;
     }else{
-      console.log(`Erro => ${subjects3[subject]}`)
+
       const cad = subjects3[subject]
       if(cad !== undefined && cad !== null && cad) 
       {
@@ -811,9 +797,7 @@ function Info11() {
     }
   }
   
-  for(let c in classific3) {
-    console.log(c + ": "+classific3[c]);
-  }
+
   Classicado(classific3);
   
   
@@ -861,21 +845,21 @@ function Info11() {
       }, 300)
     }
         }
-      }else{
-        console.log("No enc");
       }
+      
+
     })
         }, 200)
       }, 900)
       
-      console.log("Processador Encontrado");
+      
       
       
       return;
       
-    }else{
-      console.log("Processador não encontrado")
     }
+    
+    
     
   })
   
@@ -939,7 +923,7 @@ function Classicado(sub) {
   media = ` ${media} valores `;
   
   
-  console.log(media);
+  
   
   mediaCalculada.textContent = media;
   
@@ -968,7 +952,6 @@ function Classicado(sub) {
     case 'info11': CreateElement(creater3);
       break;
       
-    default: console.log("No such! ");
   }
   
 }
@@ -1028,7 +1011,8 @@ function CreateElement(creator) {
       case 'el10': seletor.forEach(sel => {
           if(toString(sel) === toString(create)) {
             button.onclick = () => {
-              setDicas(classific, create);
+              
+              setDicas(classific, create, subjects);
             }
           }
       })
@@ -1037,7 +1021,7 @@ function CreateElement(creator) {
       case "el11": seletor1.forEach(sel => {
           if(toString(sel) === toString(create)) {
             button.onclick = () => {
-              setDicas(classific1, create);
+              setDicas(classific1, create, subjects1);
             }
           }
       })
@@ -1046,7 +1030,7 @@ function CreateElement(creator) {
       case "info10": seletor2.forEach(sel => {
           if(toString(sel) === toString(create)) {
             button.onclick = () => {
-              setDicas(classific2, create);
+              setDicas(classific2, create, subjects2);
             }
           }
       })
@@ -1055,7 +1039,7 @@ function CreateElement(creator) {
       case "info11": seletor3.forEach(sel => {
           if(toString(sel) === toString(create)) {
             button.onclick = () => {
-              setDicas(classific3, create);
+              setDicas(classific3, create, subjects3);
             }
           }
       })
@@ -1097,13 +1081,27 @@ function Exit() {
 }
 
 
-function setDicas(c, a) {
+function setDicas(c, a, s) {
   
+  exit1.style.display = "flex";
+  
+  setTimeout(() => {
+    exit1.style.opacity = "1";
+  }, 300)
+  
+  cad.style.color = 'white'
+  cad.textContent = s[a]
+  let level = ((c[a] >= 0 && c[a] <= 11)? "baixa" : ( c[a] >= 12 && c[a] <= 15) ? "media" : (c[a] >= 16 && c[a] <= 20 ) ? "acima" : "media");
   
   fetch('Dicas.json').then(res => res.json()).then(file => {
-    let date = file;
     
-    newDica.innerHTML = file[0].dicas.baixa;
+    file.forEach(item => {
+      
+      if(item.cat === categoria && item.subject === a) {
+  
+        setNewDica(level, item)
+      }
+    })
     B();
   });
 
@@ -1121,14 +1119,24 @@ function setDicas(c, a) {
 
 function Exit1() {
   setDica.style.opacity = "0";
+  
+  
+  
+  spaceClassificado.style.display = "flex";
+  exit1.style.opacity = "0";
+  
   setTimeout(() => {
     setDica.style.display = "none";
+    newDica.innerHTML = "";
+    exit1.style.display = "none"
+    spaceClassificado.style.opacity = "1";
   }, 300)
 }
 
 function B() {
   
   const spaceUser = document.querySelectorAll(".user");
+  
   
   const user = nome.value;
   
@@ -1139,4 +1147,28 @@ function B() {
       space.style.color = "white";
     }
   })
+}
+ 
+function setNewDica(l, f) {
+  switch (l) {
+    case 'baixa': 
+      console.log(l);
+      newDica.innerHTML = '';
+      newDica.innerHTML = f.dicas.baixa;
+      break;
+            
+  case 'media': 
+    console.log(l);
+    newDica.innerHTML = '';
+    newDica.innerHTML = f.dicas.media;
+      break;
+            
+  case 'acima':
+    console.log(l);
+    newDica.innerHTML = '';
+    newDica.innerHTML = f.dicas.acima;
+    break;
+          
+  default: console.log("Erro");
+  }
 }

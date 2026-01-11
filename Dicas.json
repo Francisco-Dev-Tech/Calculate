@@ -1,10 +1,479 @@
 [
   {
+    "cat": "el10",
+    
     "subject": "mat",
     "dicas": {
-      "baixa": "Sua média está muito baixa, e isso é um problema <b class='user'></b> <br /> <br /> <b class='user'></b>, Considere as dicas abaixo pra subir a sua nota em Matemática: <ul> <li> 📌 Comece  por perceber onde tem errado. Não se pode corrigir um erro ser saber qual é. </li> <li> 📌 Após à identificação do problema, procure estudar sobre o assunto, não decore apenas, entenda o 'Porquê' de cada coisa.</li> <li> 📌 Peça ajuda, não se orgulhoso (a), pedir ajuda pra alguém que domine os conteúdos é uma das melhores formas de dominares também - ( Quem não se envolve, não desenvolve! ) </li>  <li> 📌 Estude com frequência. Não adianta aglomerar a matéria pra estudar um dia antes à prova. Isso prehudic</li>  </ul>",
-      "media": "Sua nota está na média, mas ainda pode melhorar! ",
-      "acima": "Sua nota está muito acima da média."
+      "baixa": "<p> Sua média em Matemática está muito baixa, e isso é um problema <b class = 'user'></b> </p> <p> <b class='user'></b>, considere as dicas abaixo para subir a sua nota em Matemática: </p> <ul> <li>📌 Entenda onde está errando. Só é possível melhorar aquilo que se conhece bem.</li> <li>📌 Depois de identificar o problema, estude o conteúdo com foco em compreender, não apenas decorar.</li> <li>📌 Não tenha medo de pedir ajuda. Aprender com quem já sabe é uma forma inteligente de evoluir — (Quem não se envolve, não desenvolve!)</li> <li>📌 Crie o hábito de estudar com frequência. Evite deixar tudo para o último dia, isso compromete seu rendimento.</li> </ul>",
+      "media": "<p> Você está indo bem em Matemática, <b class='user'></b>👏📈 </p> <p> <b class = 'user' > </b>, mas ainda dá pra chegar mais longe! Siga dicas pra te levar ao próximo nível: </p> <ul>  <li>🔥 Identifique seus pontos fracos e encare eles de frente! Um pequeno ajuste pode te levar aos 17+!</li>  <li>🧠 Desafie-se com exercícios mais difíceis — quanto mais você se expõe, mais afiado fica.</li>  <li>  Ensine um colega! Você fixa mais quando compartilha o que sabe.</li>  <li>⏳ Não relaxe! Continue estudando com frequência. A consistência é o que te separa dos melhores.</li>  <li>🏆 Mire alto! Você já está no caminho. Agora é questão de foco e disciplina.</li>  </ul>",
+      "acima": " <p> Você está com uma média excelente em Matemática, <b class='user'></b> 🚀💡 </p> <p> <br/> <b class='user'></b>, agora é hora de consolidar e manter esse nível! Olha só essas dicas: </p> <ul> <li>🏁 Continue com o mesmo ritmo e foco — manter a excelência exige constância!</li> <li>🧩 Busque novos desafios e vá além do conteúdo da sala — isso te destaca ainda mais.</li> <li>📚 Aprenda com profundidade: entenda as ideias por trás das fórmulas.</li> <li>🧘 Cuide do seu equilíbrio: dormir bem, alimentar-se e manter a mente clara ajuda no raciocínio.</li> <li>🔝 Você está entre os melhores, agora o foco é manter e evoluir. Vai com tudo!</li> </ul>."
     }
+  },
+  {
+    "cat": "info10",
+    "subject": "mat2",
+    "dicas": {
+      "baixa": "<p> Sua média em Matemática está muito baixa, e isso é um problema <b class = 'user'></b> </p> <p> <b class='user'></b>, considere as dicas abaixo para subir a sua nota em Matemática: </p> <ul> <li>📌 Entenda onde está errando. Só é possível melhorar aquilo que se conhece bem.</li> <li>📌 Depois de identificar o problema, estude o conteúdo com foco em compreender, não apenas decorar.</li> <li>📌 Não tenha medo de pedir ajuda. Aprender com quem já sabe é uma forma inteligente de evoluir — (Quem não se envolve, não desenvolve!)</li> <li>📌 Crie o hábito de estudar com frequência. Evite deixar tudo para o último dia, isso compromete seu rendimento.</li> </ul>",
+      "media": "<p> Você está indo bem em Matemática, <b class='user'></b>👏📈 </p> <p> <b class = 'user' > </b>, mas ainda dá pra chegar mais longe! Siga dicas pra te levar ao próximo nível: </p> <ul>  <li>🔥 Identifique seus pontos fracos e encare eles de frente! Um pequeno ajuste pode te levar aos 17+!</li>  <li>🧠 Desafie-se com exercícios mais difíceis — quanto mais você se expõe, mais afiado fica.</li>  <li>  Ensine um colega! Você fixa mais quando compartilha o que sabe.</li>  <li>⏳ Não relaxe! Continue estudando com frequência. A consistência é o que te separa dos melhores.</li>  <li>🏆 Mire alto! Você já está no caminho. Agora é questão de foco e disciplina.</li>  </ul>",
+      "acima": " <p> Você está com uma média excelente em Matemática, <b class='user'></b> 🚀💡 </p> <p> <br/> <b class='user'></b>, agora é hora de consolidar e manter esse nível! Olha só essas dicas: </p> <ul> <li>🏁 Continue com o mesmo ritmo e foco — manter a excelência exige constância!</li> <li>🧩 Busque novos desafios e vá além do conteúdo da sala — isso te destaca ainda mais.</li> <li>📚 Aprenda com profundidade: entenda as ideias por trás das fórmulas.</li> <li>🧘 Cuide do seu equilíbrio: dormir bem, alimentar-se e manter a mente clara ajuda no raciocínio.</li> <li>🔝 Você está entre os melhores, agora o foco é manter e evoluir. Vai com tudo!</li> </ul>."
+    }
+  },
+  {
+  "cat": "el11",
+  "subject": "mat1",
+  "dicas": {
+    "baixa": "<p> Sua média em Matemática da 11ª classe está muito baixa, e isso é um problema <b class = 'user'></b> </p> <p> <b class='user'></b>, considere as dicas abaixo para subir a sua nota em Matemática: </p> <ul> <li>📌 Entenda onde está errando. Só é possível melhorar aquilo que se conhece bem.</li> <li>📌 Depois de identificar o problema, estude o conteúdo com foco em compreender, não apenas decorar.</li> <li>📌 Não tenha medo de pedir ajuda. Aprender com quem já sabe é uma forma inteligente de evoluir — (Quem não se envolve, não desenvolve!)</li> <li>📌 Crie o hábito de estudar com frequência. Evite deixar tudo para o último dia, isso compromete seu rendimento.</li> </ul>",
+    "media": "<p> Você está indo bem em Matemática da 11ª classe, <b class='user'></b>👏📈 </p> <p> <b class = 'user' > </b>, mas ainda dá pra chegar mais longe! Siga dicas pra te levar ao próximo nível: </p> <ul> <li>🔥 Identifique seus pontos fracos e encare eles de frente! Um pequeno ajuste pode te levar aos 17+!</li> <li>🧠 Desafie-se com exercícios mais difíceis — quanto mais você se expõe, mais afiado fica.</li> <li> Ensine um colega! Você fixa mais quando compartilha o que sabe.</li> <li>⏳ Não relaxe! Continue estudando com frequência. A consistência é o que te separa dos melhores.</li> <li>🏆 Mire alto! Você já está no caminho. Agora é questão de foco e disciplina.</li> </ul>",
+    "acima": " <p> Você está com uma média excelente em Matemática da 11ª classe, <b class='user'></b> 🚀💡 </p> <p> <br/> <b class='user'></b>, agora é hora de consolidar e manter esse nível! Olha só essas dicas: </p> <ul> <li>🏁 Continue com o mesmo ritmo e foco — manter a excelência exige constância!</li> <li>🧩 Busque novos desafios e vá além do conteúdo da sala — isso te destaca ainda mais.</li> <li>📚 Aprenda com profundidade: entenda as ideias por trás das fórmulas.</li> <li>🧘 Cuide do seu equilíbrio: dormir bem, alimentar-se e manter a mente clara ajuda no raciocínio.</li> <li>🔝 Você está entre os melhores, agora o foco é manter e evoluir. Vai com tudo!</li> </ul>"
   }
+  },
+  {
+  "cat": "info11",
+  "subject": "mat3",
+  "dicas": {
+    "baixa": "<p> Sua média em Matemática da 11ª classe está muito baixa, e isso é um problema <b class = 'user'></b> </p> <p> <b class='user'></b>, considere as dicas abaixo para subir a sua nota em Matemática: </p> <ul> <li>📌 Entenda onde está errando. Só é possível melhorar aquilo que se conhece bem.</li> <li>📌 Depois de identificar o problema, estude o conteúdo com foco em compreender, não apenas decorar.</li> <li>📌 Não tenha medo de pedir ajuda. Aprender com quem já sabe é uma forma inteligente de evoluir — (Quem não se envolve, não desenvolve!)</li> <li>📌 Crie o hábito de estudar com frequência. Evite deixar tudo para o último dia, isso compromete seu rendimento.</li> </ul>",
+    "media": "<p> Você está indo bem em Matemática da 11ª classe, <b class='user'></b>👏📈 </p> <p> <b class = 'user' > </b>, mas ainda dá pra chegar mais longe! Siga dicas pra te levar ao próximo nível: </p> <ul> <li>🔥 Identifique seus pontos fracos e encare eles de frente! Um pequeno ajuste pode te levar aos 17+!</li> <li>🧠 Desafie-se com exercícios mais difíceis — quanto mais você se expõe, mais afiado fica.</li> <li> Ensine um colega! Você fixa mais quando compartilha o que sabe.</li> <li>⏳ Não relaxe! Continue estudando com frequência. A consistência é o que te separa dos melhores.</li> <li>🏆 Mire alto! Você já está no caminho. Agora é questão de foco e disciplina.</li> </ul>",
+    "acima": " <p> Você está com uma média excelente em Matemática da 11ª classe, <b class='user'></b> 🚀💡 </p> <p> <br/> <b class='user'></b>, agora é hora de consolidar e manter esse nível! Olha só essas dicas: </p> <ul> <li>🏁 Continue com o mesmo ritmo e foco — manter a excelência exige constância!</li> <li>🧩 Busque novos desafios e vá além do conteúdo da sala — isso te destaca ainda mais.</li> <li>📚 Aprenda com profundidade: entenda as ideias por trás das fórmulas.</li> <li>🧘 Cuide do seu equilíbrio: dormir bem, alimentar-se e manter a mente clara ajuda no raciocínio.</li> <li>🔝 Você está entre os melhores, agora o foco é manter e evoluir. Vai com tudo!</li> </ul>"
+  }
+},
+{
+  "cat": "el10",
+  "subject": "fisica",
+  "dicas": {
+    "baixa": "<p> Sua média em Física está baixa, e isso é um alerta! <b class = 'user'></b> </p> <p> <b class='user'></b>, é hora de mudar! Siga essas dicas: </p> <ul> <li>📌 Foque nos conceitos básicos de Mecânica e Termodinâmica.</li> <li>📌 Pratique resolver problemas de cinemática e dinâmica.</li> <li>📌 Faça resumos e esquemas para entender melhor os fenômenos físicos.</li> <li>📌 Estude com um grupo de amigos e discuta os temas.</li> </ul>",
+    "media": "<p> Você está indo bem em Física, <b class='user'></b>👏📈 </p> <p> <b class = 'user' > </b>, mas ainda dá pra chegar mais longe! Siga essas dicas: </p> <ul> <li>🔥 Aprofunde seus conhecimentos em Eletricidade e Magnetismo.</li> <li>🧠 Resolva exercícios de vestibulares e concursos.</li> <li> Ensine um colega! Você fixa mais quando compartilha o que sabe.</li> <li>⏳ Continue estudando com frequência e revise os conteúdos.</li> </ul>",
+    "acima": " <p> Você está com uma média excelente em Física, <b class='user'></b> 🚀💡 </p> <p> <br/> <b class='user'></b>, agora é hora de consolidar e manter esse nível! Olha só essas dicas: </p> <ul> <li>🏁 Continue com o mesmo ritmo e foco — manter a excelência exige constância!</li> <li>🧩 Busque novos desafios, como Olimpíadas de Física.</li> <li>📚 Aprenda a aplicar a Física em problemas reais.</li> <li>🧘 Cuide do seu equilíbrio: dormir bem, alimentar-se e manter a mente clara ajuda no raciocínio.</li> </ul>"
+  }
+},
+{
+  "cat": "info10",
+  "subject": "fisica2",
+  "dicas": {
+    "baixa": "<p> Sua média está baixa, e isso é um alerta! <b class = 'user'></b> </p> <p> <b class='user'></b>, é hora de mudar! Siga essas dicas: </p> <ul> <li>📌 Foque nos conceitos básicos de Mecânica Clássica.</li> <li>📌 Pratique resolver problemas de cinemática e dinâmica.</li> <li>📌 Faça resumos e esquemas para entender melhor os fenômenos físicos.</li> <li>📌 Estude com um grupo de amigos e discuta os temas.</li> </ul>",
+    "media": "<p> Você está indo bem em Física, <b class='user'></b>👏📈 </p> <p> <b class = 'user' > </b>, mas ainda dá pra chegar mais longe! Siga essas dicas: </p> <ul> <li>🔥 Aprofunde seus conhecimentos em Energia e Trabalho.</li> <li>🧠 Resolva exercícios de vestibulares e concursos.</li> <li> Ensine um colega! Você fixa mais quando compartilha o que sabe.</li> <li>⏳ Continue estudando com frequência e revise os conteúdos.</li> </ul>",
+    "acima": " <p> Você está com uma média excelente em Física, <b class='user'></b> 🚀💡 </p> <p> <br/> <b class='user'></b>, agora é hora de consolidar e manter esse nível! Olha só essas dicas: </p> <ul> <li>🏁 Continue com o mesmo ritmo e foco — manter a excelência exige constância!</li> <li>🧩 Busque novos desafios, como projetos de pesquisa.</li> <li>📚 Aprenda a aplicar a Física em problemas reais.</li> <li>🧘 Cuide do seu equilíbrio: dormir bem, alimentar-se e manter a mente clara ajuda no raciocínio.</li> </ul>"
+  }
+},
+{
+  "cat": "el11",
+  "subject": "fisica1",
+  "dicas": {
+    "baixa": "<p> Sua média em Física está baixa, e isso é um alerta! <b class = 'user'></b> </p> <p> <b class='user'></b>, é hora de mudar! Siga essas dicas: </p> <ul> <li>📌 Foque nos conceitos de Termodinâmica e Eletromagnetismo.</li> <li>📌 Pratique resolver problemas de calorimetria e circuitos elétricos.</li> <li>📌 Faça resumos e esquemas para entender melhor os fenômenos físicos.</li> <li>📌 Estude com um grupo de amigos e discuta os temas.</li> </ul>",
+    "media": "<p> Você está indo bem em Física , <b class='user'></b>👏📈 </p> <p> <b class = 'user' > </b>, mas ainda dá pra chegar mais longe! Siga essas dicas: </p> <ul> <li>🔥 Aprofunde seus conhecimentos em Ondas e Óptica.</li> <li>🧠 Resolva exercícios de vestibulares e concursos.</li> <li> Ensine um colega! Você fixa mais quando compartilha o que sabe.</li> <li>⏳ Continue estudando com frequência e revise os conteúdos.</li> </ul>",
+    "acima": " <p> Você está com uma média excelente em Física, <b class='user'></b> 🚀💡 </p> <p> <br/> <b class='user'></b>, agora é hora de consolidar e manter esse nível! Olha só essas dicas: </p> <ul> <li>🏁 Continue com o mesmo ritmo e foco — manter a excelência exige constância!</li> <li>🧩 Busque novos desafios, como projetos de pesquisa.</li> <li>📚 Aprenda a aplicar a Física em problemas reais.</li> <li>🧘 Cuide do seu equilíbrio: dormir bem, alimentar-se e manter a mente clara ajuda no raciocínio.</li> </ul>"
+  }
+},
+{
+  "cat": "info11",
+  "subject": "fisica3",
+  "dicas": {
+    "baixa": "<p> Sua média em Física está baixa, e isso é um alerta! <b class = 'user'></b> </p> <p> <b class='user'></b>, é hora de mudar! Siga essas dicas: </p> <ul> <li>📌 Foque nos conceitos de Física Moderna e Nuclear.</li> <li>📌 Pratique resolver problemas de relatividade e física quântica.</li> <li>📌 Faça resumos e esquemas para entender melhor os fenômenos físicos.</li> <li>📌 Estude com um grupo de amigos e discuta os temas.</li> </ul>",
+    "media": "<p> Você está indo bem em Física, <b class='user'></b>👏📈 </p> <p> <b class = 'user' > </b>, mas ainda dá pra chegar mais longe! Siga essas dicas: </p> <ul> <li>🔥 Aprofunde seus conhecimentos em Partículas Elementares e Cosmologia.</li> <li>🧠 Resolva exercícios de vestibulares e concursos.</li> <li> Ensine um colega! Você fixa mais quando compartilha o que sabe.</li> <li>⏳ Continue estudando com frequência e revise os conteúdos.</li> </ul>",
+    "acima": " <p> Você está com uma média excelente em Física, <b class='user'></b> 🚀💡 </p> <p> <br/> <b class='user'></b>, agora é hora de consolidar e manter esse nível! Olha só essas dicas: </p> <ul> <li>🏁 Continue com o mesmo ritmo e foco — manter a excelência exige constância!</li> <li>🧩 Busque novos desafios, como projetos de pesquisa.</li> <li>📚 Aprenda a aplicar a Física em problemas reais.</li> <li>🧘 Cuide do seu equilíbrio: dormir bem, alimentar-se e manter a mente clara ajuda no raciocínio.</li> </ul>"
+  }
+},
+{
+  "cat": "el10",
+  "subject": "quim",
+  "dicas": {
+    "baixa": "<p> Sua média em Química da 10ª classe está baixa, e isso é um sinal para agir! <b class='user'></b> ⚠️</p> <p><b class='user'></b>, não desanima! Basta ajustar a forma de estudar. Aqui vão dicas que vão te levantar:</p> <ul> <li>📘 Revise bem os conceitos básicos: ligações químicas, tabela periódica e modelos atômicos.</li> <li>🧪 Faça exercícios simples primeiro, depois avance para reações e cálculos.</li> <li>📋 Crie resumos e mapas mentais dos elementos e suas propriedades.</li> <li>🤝 Estude com colegas e compare resoluções.</li> </ul>",
+
+    "media": "<p> Você está com um bom desempenho em Química da 10ª classe, <b class='user'></b> 👏📘</p> <p><b class='user'></b>, dá para subir ainda mais! Veja o que pode te ajudar:</p> <ul> <li>🔥 Aprofunde conteúdos como funções inorgânicas e reações químicas.</li> <li>🧠 Resolva mais exercícios de balanceamento e cálculos de massa molar.</li> <li>🧾 Monte seu próprio formulário com regras e padrões.</li> <li>📅 Mantenha um cronograma fixo de revisões semanais.</li> </ul>",
+
+    "acima": "<p> Você está com uma média excelente em Química da 10ª classe, <b class='user'></b> 🚀🧪</p> <p><b class='user'></b>, agora é manter o nível e ir além! Olha essas sugestões:</p> <ul> <li>🏁 Continue praticando exercícios mais complexos, como cálculos estequiométricos e soluções.</li> <li>🔬 Pesquise experimentos simples que podem ser feitos na escola para reforçar conceitos.</li> <li>📚 Explore conteúdos além da matéria, como química orgânica inicial.</li> <li>🧘 Cuide do foco e da rotina — o cérebro aprende melhor com hábitos saudáveis.</li> </ul>"
+  }
+},
+{
+  "cat": "el11",
+  "subject": "quim1",
+  "dicas": {
+    "baixa": "<p>Sua média em Química da 11ª classe está baixa, <b class='user'></b>, e isso exige atenção imediata.</p> <p><b class='user'></b>, concentra-te nestas ações para recuperar o desempenho:</p> <ul> <li>Revisa com calma os fundamentos: modelos atômicos, ligações químicas e funções inorgânicas.</li> <li>Pratica exercícios de reações químicas e balanceamento todos os dias.</li> <li>Cria resumos e mapas mentais sobre propriedades dos compostos.</li> <li>Estuda em grupo e discute processos passo a passo para fixar melhor.</li> </ul>",
+
+    "media": "<p>O teu desempenho em Química da 11ª classe está bom, <b class='user'></b>, mas ainda tens grande potencial para subir.</p> <p><b class='user'></b>, segue estas sugestões para avançar:</p> <ul> <li>Aprofunda temas como termoquímica, cinética e equilíbrio químico.</li> <li>Resolve exercícios envolvendo cálculos de energia, velocidade e concentração.</li> <li>Mantém fichas de fórmulas importantes e revisa-as com frequência.</li> <li>Inclui revisões semanais para consolidar o conteúdo aprendido.</li> </ul>",
+
+    "acima": "<p>Estás com excelente desempenho em Química da 11ª classe, <b class='user'></b>, e isso mostra muita dedicação.</p> <p><b class='user'></b>, mantém o ritmo e procura evolução com estas dicas:</p> <ul> <li>Resolve exercícios avançados de equilíbrio químico, pH, termoquímica e cinética.</li> <li>Estuda aplicações práticas da química em ambientes industriais e ambientais.</li> <li>Explora conteúdos além da matéria, como introdução à química orgânica e eletroquímica.</li> <li>Organiza bem a rotina de estudo e prioriza clareza mental e descanso para manter a performance.</li> </ul>"
+  }
+},
+
+{
+  "cat": "info10",
+  "subject": "quim2 um",
+  "dicas": {
+    "baixa": "<p> Sua média em Química da 10ª classe está baixa, e isso é um sinal para agir! <b class='user'></b> ⚠️</p> <p><b class='user'></b>, não desanima! Basta ajustar a forma de estudar. Aqui vão dicas que vão te levantar:</p> <ul> <li>📘 Revise bem os conceitos básicos: ligações químicas, tabela periódica e modelos atômicos.</li> <li>🧪 Faça exercícios simples primeiro, depois avance para reações e cálculos.</li> <li>📋 Crie resumos e mapas mentais dos elementos e suas propriedades.</li> <li>🤝 Estude com colegas e compare resoluções.</li> </ul>",
+
+    "media": "<p> Você está com um bom desempenho em Química da 10ª classe, <b class='user'></b> 👏📘</p> <p><b class='user'></b>, dá para subir ainda mais! Veja o que pode te ajudar:</p> <ul> <li>🔥 Aprofunde conteúdos como funções inorgânicas e reações químicas.</li> <li>🧠 Resolva mais exercícios de balanceamento e cálculos de massa molar.</li> <li>🧾 Monte seu próprio formulário com regras e padrões.</li> <li>📅 Mantenha um cronograma fixo de revisões semanais.</li> </ul>",
+
+    "acima": "<p> Você está com uma média excelente em Química da 10ª classe, <b class='user'></b> 🚀🧪</p> <p><b class='user'></b>, agora é manter o nível e ir além! Olha essas sugestões:</p> <ul> <li>🏁 Continue praticando exercícios mais complexos, como cálculos estequiométricos e soluções.</li> <li>🔬 Pesquise experimentos simples que podem ser feitos na escola para reforçar conceitos.</li> <li>📚 Explore conteúdos além da matéria, como química orgânica inicial.</li> <li>🧘 Cuide do foco e da rotina — o cérebro aprende melhor com hábitos saudáveis.</li> </ul>"
+  }
+},
+{
+  "cat": "info11",
+  "subject": "quim3",
+  "dicas": {
+    "baixa": "<p>Sua média em Química da 11ª classe está baixa, <b class='user'></b>, e isso exige atenção imediata.</p> <p><b class='user'></b>, concentra-te nestas ações para recuperar o desempenho:</p> <ul> <li>Revisa com calma os fundamentos: modelos atômicos, ligações químicas e funções inorgânicas.</li> <li>Pratica exercícios de reações químicas e balanceamento todos os dias.</li> <li>Cria resumos e mapas mentais sobre propriedades dos compostos.</li> <li>Estuda em grupo e discute processos passo a passo para fixar melhor.</li> </ul>",
+
+    "media": "<p>O teu desempenho em Química da 11ª classe está bom, <b class='user'></b>, mas ainda tens grande potencial para subir.</p> <p><b class='user'></b>, segue estas sugestões para avançar:</p> <ul> <li>Aprofunda temas como termoquímica, cinética e equilíbrio químico.</li> <li>Resolve exercícios envolvendo cálculos de energia, velocidade e concentração.</li> <li>Mantém fichas de fórmulas importantes e revisa-as com frequência.</li> <li>Inclui revisões semanais para consolidar o conteúdo aprendido.</li> </ul>",
+
+    "acima": "<p>Estás com excelente desempenho em Química da 11ª classe, <b class='user'></b>, e isso mostra muita dedicação.</p> <p><b class='user'></b>, mantém o ritmo e procura evolução com estas dicas:</p> <ul> <li>Resolve exercícios avançados de equilíbrio químico, pH, termoquímica e cinética.</li> <li>Estuda aplicações práticas da química em ambientes industriais e ambientais.</li> <li>Explora conteúdos além da matéria, como introdução à química orgânica e eletroquímica.</li> <li>Organiza bem a rotina de estudo e prioriza clareza mental e descanso para manter a performance.</li> </ul>"
+  }
+},
+{
+  "cat": "el10",
+  "subject": "ingl",
+  "dicas": {
+    "baixa": "<p>Sua média em Inglês da 10ª classe está baixa, <b class='user'></b>, mas isso pode mudar rápido.</p> <p><b class='user'></b>, segue estas ações para recuperar o rendimento:</p> <ul> <li>Revise vocabulário básico todos os dias: cores, verbos, nacionalidades, profissões.</li> <li>Treine frases simples de apresentação e descrição.</li> <li>Assista pequenos vídeos em inglês com legenda para acostumar ao idioma.</li> <li>Faça exercícios de leitura curta e identifique palavras-chave.</li> </ul>",
+
+    "media": "<p>Seu desempenho em Inglês da 10ª classe está bom, <b class='user'></b>, mas ainda podes evoluir bastante.</p> <p><b class='user'></b>, segue estas dicas para subir o nível:</p> <ul> <li>Aprenda novos tempos verbais, como Present Continuous e Simple Past.</li> <li>Pratique textos maiores e tente reescrever com suas próprias palavras.</li> <li>Aumente seu vocabulário com temas do cotidiano e da tecnologia.</li> <li>Treine ouvir diálogos curtos e tente responder perguntas sobre eles.</li> </ul>",
+
+    "acima": "<p>Estás com excelente desempenho em Inglês da 10ª classe, <b class='user'></b>. Ótimo trabalho!</p> <p><b class='user'></b>, agora é hora de consolidar e avançar ainda mais:</p> <ul> <li>Pratique textos longos e identifique estruturas gramaticais avançadas.</li> <li>Assista conteúdos em inglês sem legenda para treinar compreensão.</li> <li>Aprenda conectores (however, although, therefore) para melhorar escrita.</li> <li>Treine conversação com colegas para desenvolver fluência.</li> </ul>"
+  }
+},
+{
+  "cat": "el11",
+  "subject": "ingl1",
+  "dicas": {
+    "baixa": "<p>Sua média em Inglês da 11ª classe está baixa, <b class='user'></b>, mas com foco você recupera.</p> <p><b class='user'></b>, segue estas orientações:</p> <ul> <li>Revisa tempos verbais básicos e como usá-los em frases.</li> <li>Treina leitura de pequenos textos e sublinha palavras novas.</li> <li>Expanda o vocabulário com temas escolares e profissionais.</li> <li>Faça exercícios de interpretação para melhorar compreensão.</li> </ul>",
+
+    "media": "<p>Seu desempenho em Inglês da 11ª classe está estável, <b class='user'></b>, mas ainda há muito para crescer.</p> <p><b class='user'></b>, segue estas dicas para evoluir:</p> <ul> <li>Aprofunde tempos verbais como Present Perfect e Future Forms.</li> <li>Aprenda expressões idiomáticas usadas no dia a dia.</li> <li>Leia textos maiores e tente resumi-los em inglês.</li> <li>Ouça diálogos ou músicas e identifique estruturas gramaticais.</li> </ul>",
+
+    "acima": "<p>O teu desempenho em Inglês da 11ª classe está excelente, <b class='user'></b>. Continua assim!</p> <p><b class='user'></b>, aqui vão sugestões para evoluir ainda mais:</p> <ul> <li>Pratique redações usando conectores e vocabulário avançado.</li> <li>Assista debates, entrevistas ou documentários em inglês.</li> <li>Treine conversação e pronúncia regularmente.</li> <li>Leia artigos científicos ou textos técnicos simples para expandir o vocabulário.</li> </ul>"
+  }
+},
+{
+  "cat": "info10",
+  "subject": "ingl2",
+  "dicas": {
+    "baixa": "<p>Sua média em Inglês da 10ª classe está baixa, <b class='user'></b>. É hora de reforçar a base.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Revise vocabulário essencial, incluindo termos de informática.</li> <li>Pratique frases simples relacionadas a tecnologia.</li> <li>Leia pequenos diálogos focados em situações do dia a dia.</li> <li>Use apps gratuitos para treinar vocabulário diariamente.</li> </ul>",
+
+    "media": "<p>Você está indo bem em Inglês da 10ª classe, <b class='user'></b>, mas ainda dá para subir.</p> <p><b class='user'></b>, siga estas recomendações:</p> <ul> <li>Aprenda estruturas mais longas e como ligar ideias.</li> <li>Treine leitura de textos sobre informática e tecnologia.</li> <li>Aumente seu vocabulário técnico (software, device, network, etc.).</li> <li>Faça exercícios de interpretação com perguntas mais exigentes.</li> </ul>",
+
+    "acima": "<p>Excelente desempenho em Inglês da 10ª classe, <b class='user'></b>. Continue assim!</p> <p><b class='user'></b>, aqui estão sugestões para avançar mais:</p> <ul> <li>Leia textos técnicos de informática em inglês.</li> <li>Treine escrita de pequenos relatórios ou descrições de sistemas.</li> <li>Veja vídeos educativos de tecnologia em inglês.</li> <li>Pratique conversação para melhorar fluência e precisão.</li> </ul>"
+  }
+},
+{
+  "cat": "info11",
+  "subject": "ingl3",
+  "dicas": {
+    "baixa": "<p>Sua média em Inglês da 11ª classe está baixa, <b class='user'></b>, mas há tempo para recuperar.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Reforce vocabulário básico e técnico.</li> <li>Pratique leitura de pequenos textos usados na área de TI.</li> <li>Aprenda a formular frases claras sobre equipamentos e processos.</li> <li>Ouça áudios curtos em inglês para melhorar compreensão.</li> </ul>",
+
+    "media": "<p>Você está com um bom desempenho em Inglês da 11ª classe, <b class='user'></b>, mas pode ir além.</p> <p><b class='user'></b>, aqui vai o que pode ajudar:</p> <ul> <li>Aprofunde tempos verbais e uso correto de estruturas mais complexas.</li> <li>Leia artigos curtos sobre informática, segurança digital e softwares.</li> <li>Pratique redações explicando conceitos de TI.</li> <li>Treine compreensão auditiva com vídeos de tecnologia.</li> </ul>",
+
+    "acima": "<p>Seu desempenho em Inglês da 11ª classe está excelente, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, siga estas sugestões para subir ainda mais de nível:</p> <ul> <li>Leia documentação técnica em inglês e tente interpretá-la.</li> <li>Pratique escrita de e-mails profissionais e relatórios simples.</li> <li>Assista conteúdo avançado em inglês sobre programação e redes.</li> <li>Treine conversação com foco em apresentações técnicas.</li> </ul>"
+  }
+},
+{
+  "cat": "el10",
+  "subject": "fai",
+  "dicas": {
+    "baixa": "<p>Sua média em Formação de Atitudes Integradoras está baixa, <b class='user'></b>, e isso precisa de atenção.</p> <p><b class='user'></b>, aqui vão ações para recuperar o desempenho:</p> <ul> <li>Pratique mais responsabilidade, organização e respeito nas aulas.</li> <li>Participe das atividades com maior envolvimento.</li> <li>Aprenda a trabalhar melhor em grupo e ouvir outras opiniões.</li> <li>Converse com o professor para compreender o que precisa melhorar.</li> </ul>",
+
+    "media": "<p>Você está com desempenho razoável em Formação de Atitudes Integradoras, <b class='user'></b>, mas ainda pode evoluir bastante.</p> <p><b class='user'></b>, siga estas recomendações:</p> <ul> <li>Desenvolva mais empatia, colaboração e iniciativa.</li> <li>Participe de forma ativa nos trabalhos em grupo.</li> <li>Reflita sobre as atitudes que são trabalhadas na disciplina.</li> <li>Busque participar de projetos que reforçam valores sociais.</li> </ul>",
+
+    "acima": "<p>Excelente desempenho em Formação de Atitudes Integradoras, <b class='user'></b>. Continua assim!</p> <p><b class='user'></b>, siga estas dicas para avançar ainda mais:</p> <ul> <li>Seja referência positiva para os colegas e incentive boas atitudes.</li> <li>Aprofunde valores como ética, cooperação e liderança.</li> <li>Participe de projetos que envolvam responsabilidade social.</li> <li>Continue praticando atitudes de respeito e convivência saudável.</li> </ul>"
+  }
+},
+{
+  "cat": "el11",
+  "subject": "fai1",
+  "dicas": {
+    "baixa": "<p>Sua média em Formação de Atitudes Integradoras está baixa, <b class='user'></b>, mas ainda dá para recuperar.</p> <p><b class='user'></b>, aqui vão algumas ações importantes:</p> <ul> <li>Procure melhorar compromisso, disciplina e participação.</li> <li>Envolva-se mais nas atividades práticas e colaborativas.</li> <li>Exercite o respeito às regras, aos colegas e aos professores.</li> <li>Peça orientação ao professor sobre os pontos mais críticos.</li> </ul>",
+
+    "media": "<p>Seu desempenho em Formação de Atitudes Integradoras está bom, <b class='user'></b>, mas ainda há espaço para crescer.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Desenvolva habilidades de convivência e diálogo.</li> <li>Pratique atitudes positivas dentro e fora da sala de aula.</li> <li>Trabalhe mais autonomia e capacidade de colaboração.</li> <li>Engaje-se em atividades que promovam integração.</li> </ul>",
+
+    "acima": "<p>Teu desempenho em Formação de Atitudes Integradoras é excelente, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, aqui vai como ir ainda mais longe:</p> <ul> <li>Assuma papéis de liderança positiva nos grupos.</li> <li>Promova um ambiente de respeito e apoio entre os colegas.</li> <li>Refine valores como ética, responsabilidade e empatia.</li> <li>Participe de iniciativas que fortaleçam a convivência escolar.</li> </ul>"
+  }
+},
+{
+  "cat": "info10",
+  "subject": "fai2",
+  "dicas": {
+    "baixa": "<p>Sua média em Formação de Atitudes Integradoras está baixa, <b class='user'></b>. Vamos fortalecer suas atitudes e participação.</p> <p><b class='user'></b>, siga estas recomendações:</p> <ul> <li>Melhore envolvimento e responsabilidade nas tarefas.</li> <li>Desenvolva respeito e boa comunicação com o grupo.</li> <li>Trabalhe autocontrole e postura adequada em sala.</li> <li>Peça feedback para entender o que precisa melhorar.</li> </ul>",
+
+    "media": "<p>Você está indo bem em Formação de Atitudes Integradoras, <b class='user'></b>, mas ainda pode melhorar.</p> <p><b class='user'></b>, aqui vão sugestões importantes:</p> <ul> <li>Pratique atitudes de colaboração e convivência saudável.</li> <li>Participe ativamente de trabalhos e dinâmicas.</li> <li>Procure sempre agir com respeito, ética e responsabilidade.</li> <li>Desenvolva maior iniciativa e autonomia.</li> </ul>",
+
+    "acima": "<p>Seu desempenho em Formação de Atitudes Integradoras é excelente, <b class='user'></b>. Ótimo trabalho!</p> <p><b class='user'></b>, siga estas sugestões para evoluir ainda mais:</p> <ul> <li>Aprimore liderança positiva e apoio aos colegas.</li> <li>Envolva-se em atividades que promovam valores sociais.</li> <li>Refine atitudes como empatia, cooperação e sensibilidade social.</li> <li>Continue cultivando responsabilidade e postura exemplar.</li> </ul>"
+  }
+},
+{
+  "cat": "info11",
+  "subject": "fai3",
+  "dicas": {
+    "baixa": "<p>Sua média em Formação de Atitudes Integradoras está baixa, <b class='user'></b>, mas é totalmente possível recuperar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Melhore atitudes de responsabilidade, pontualidade e respeito.</li> <li>Trabalhe melhor em grupo e mantenha postura positiva.</li> <li>Reflita sobre como suas atitudes influenciam o ambiente.</li> <li>Converse com o professor para orientação direta.</li> </ul>",
+
+    "media": "<p>Seu desempenho em Formação de Atitudes Integradoras é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Treine empatia, comunicação e capacidade de resolver conflitos.</li> <li>Participe de atividades que estimulem responsabilidade social.</li> <li>Melhore iniciativa e proatividade nas tarefas.</li> <li>Reflita sobre hábitos e atitudes do cotidiano.</li> </ul>",
+
+    "acima": "<p>Excelente desempenho em Formação de Atitudes Integradoras, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, para evoluir ainda mais:</p> <ul> <li>Atue como líder positivo, ajudando colegas quando necessário.</li> <li>Promova convivência saudável e atitudes inspiradoras.</li> <li>Aprofunde valores como ética, civismo e cooperação.</li> <li>Participe de projetos que reforcem o bem-estar coletivo.</li> </ul>"
+  }
+},
+{
+  "cat": "el10",
+  "subject": "edf",
+  "dicas": {
+    "baixa": "<p>Sua média em Educação Física está baixa, <b class='user'></b>, mas ainda dá tempo de recuperar.</p> <p><b class='user'></b>, tente seguir estas orientações:</p> <ul> <li>Participa ativamente das aulas práticas, isso conta muito.</li> <li>Melhora o condicionamento com caminhadas, corridas leves e alongamentos.</li> <li>Aprende as regras básicas das modalidades trabalhadas.</li> <li>Evita faltar às aulas, pois a presença é importante na avaliação.</li> </ul>",
+    "media": "<p>Você está com um bom desempenho em Educação Física, <b class='user'></b>. Continua assim!</p> <p><b class='user'></b>, para melhorar ainda mais:</p> <ul> <li>Aprimore sua resistência física com treinos leves fora da aula.</li> <li>Pratique técnicas das modalidades ensinadas, como passe, drible ou saque.</li> <li>Mantenha disciplina e espírito de equipa.</li> <li>Alongue sempre antes e depois das atividades.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Educação Física, <b class='user'></b>! Continue brilhando.</p> <p><b class='user'></b>, para manter esse nível:</p> <ul> <li>Ajude colegas com dificuldade, mostrando liderança positiva.</li> <li>Aprimore velocidade, força e coordenação.</li> <li>Estude as regras oficiais das modalidades para aprofundar conhecimento.</li> <li>Mantenha hábitos saudáveis como hidratação e descanso adequado.</li> </ul>"
+  }
+},
+{
+  "cat": "el11",
+  "subject": "edf1",
+  "dicas": {
+    "baixa": "<p>Sua média em Educação Física está baixa, <b class='user'></b>, mas você pode melhorar se focar no básico.</p> <p><b class='user'></b>, siga estas sugestões:</p> <ul> <li>Esforce-se mais nas atividades práticas e participa sempre.</li> <li>Trabalha resistência e mobilidade com treinos simples em casa.</li> <li>Revê regras das modalidades exigidas no conteúdo.</li> <li>Fala com o professor para entender onde melhorar.</li> </ul>",
+    "media": "<p>Seu desempenho em Educação Física é sólido, <b class='user'></b>. Dá pra subir ainda mais!</p> <p><b class='user'></b>, considere fazer:</p> <ul> <li>Melhore sua técnica nas modalidades, como precisão, velocidade ou coordenação.</li> <li>Treine postura e execução correta dos movimentos.</li> <li>Continue participando com empenho e atenção.</li> <li>Mantenha bom comportamento e espírito de equipa.</li> </ul>",
+    "acima": "<p>Excelente resultado em Educação Física, <b class='user'></b>! Continue no topo.</p> <p><b class='user'></b>, para manter o alto desempenho:</p> <ul> <li>Destaque-se como líder responsável e colaborativo nas atividades.</li> <li>Aprimore força, resistência e técnica avançada.</li> <li>Participe de atividades extracurriculares esportivas.</li> <li>Mantenha disciplina e rotina física saudável.</li> </ul>"
+  }
+},
+{
+  "cat": "info10",
+  "subject": "edf2",
+  "dicas": {
+    "baixa": "<p>Sua média em Educação Física está baixa, <b class='user'></b>, mas ainda tens como recuperar!</p> <p><b class='user'></b>, segue estas ações:</p> <ul> <li>Não falte às aulas e participa com mais empenho.</li> <li>Melhore condicionamento com caminhadas, pequenas corridas ou saltos.</li> <li>Revê fundamentos básicos das modalidades trabalhadas.</li> <li>Cuida da postura e evita distrações durante a prática.</li> </ul>",
+    "media": "<p>Bom desempenho em Educação Física, <b class='user'></b>! Dá para ir mais longe.</p> <p><b class='user'></b>, tente:</p> <ul> <li>Desenvolver coordenação, agilidade e reflexos.</li> <li>Praticar modalidades fora das aulas para ganhar confiança.</li> <li>Colaborar com a turma e manter espírito esportivo.</li> <li>Alongar mais para evitar lesões e melhorar desempenho.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Educação Física, <b class='user'></b>! Continua nesse ritmo.</p> <p><b class='user'></b>, para evoluir ainda mais:</p> <ul> <li>Torna-te um exemplo de disciplina e trabalho em equipa.</li> <li>Aprimora estratégias de jogo e técnica mais avançada.</li> <li>Mantenha hábitos saudáveis para melhorar performance.</li> <li>Ajuda colegas com dificuldade, mostrando maturidade.</li> </ul>"
+  }
+},
+{
+  "cat": "info11",
+  "subject": "edf3",
+  "dicas": {
+    "baixa": "<p>Sua média em Educação Física está baixa, <b class='user'></b>, mas você consegue recuperar com foco.</p> <p><b class='user'></b>, siga estas orientações:</p> <ul> <li>Aumente sua participação prática — isso é fundamental.</li> <li>Melhore resistência física com treinos simples fora da aula.</li> <li>Revise regras e fundamentos das modalidades avaliadas.</li> <li>Evite faltas e mantenha comprometimento constante.</li> </ul>",
+    "media": "<p>Seu desempenho em Educação Física é bom, <b class='user'></b>! Mas pode melhorar ainda mais.</p> <p><b class='user'></b>, siga:</p> <ul> <li>Trabalhe força, agilidade e coordenação para melhor performance.</li> <li>Foque na execução correta dos movimentos.</li> <li>Mantenha postura disciplinada durante as práticas.</li> <li>Continue praticando atividades físicas fora da escola.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Educação Física, <b class='user'></b>! Continue assim.</p> <p><b class='user'></b>, para manter-se no topo:</p> <ul> <li>Aprimore técnicas avançadas e liderança em equipa.</li> <li>Participe de torneios ou atividades esportivas extras.</li> <li>Cultive hábitos fortes: boa alimentação, hidratação e descanso.</li> <li>Ajude colegas e incentive bom espírito esportivo.</li> </ul>"
+  }
+},
+{
+  "cat": "el10",
+  "subject": "port",
+  "dicas": {
+    "baixa": "<p>Sua média em Língua Portuguesa está baixa, <b class='user'></b>, mas você pode recuperar com dedicação.</p> <p><b class='user'></b>, siga estas orientações:</p> <ul> <li>Leia textos simples diariamente para melhorar interpretação.</li> <li>Pratique a escrita com resumos e pequenas composições.</li> <li>Revise ortografia e pontuação, que valem muitos pontos.</li> <li>Peça ajuda ao professor para identificar suas maiores dificuldades.</li> </ul>",
+    "media": "<p>Seu desempenho em Língua Portuguesa é bom, <b class='user'></b>, mas há espaço para melhorar ainda mais.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Aprimore a leitura de crônicas, notícias e textos argumentativos.</li> <li>Pratique interpretação resolvendo exercícios e analisando textos.</li> <li>Amplie o vocabulário lendo diferentes gêneros literários.</li> <li>Reforce regras de gramática que ainda causam dúvida.</li> </ul>",
+    "acima": "<p>Parabéns, <b class='user'></b>! Seu desempenho em Língua Portuguesa é excelente.</p> <p><b class='user'></b>, para continuar avançando:</p> <ul> <li>Leia livros mais complexos para aprofundar interpretação e análise.</li> <li>Produza textos argumentativos e narrativos com maior riqueza vocabular.</li> <li>Aprimore domínio das classes gramaticais e da sintaxe.</li> <li>Participe de debates e atividades que estimulem comunicação clara.</li> </ul>"
+  }
+},
+{
+  "cat": "el11",
+  "subject": "port1",
+  "dicas": {
+    "baixa": "<p>Sua média em Língua Portuguesa está baixa, <b class='user'></b>, mas você ainda pode melhorar muito.</p> <p><b class='user'></b>, tente seguir estas dicas:</p> <ul> <li>Reforce interpretação de textos, pois é o ponto mais importante.</li> <li>Revise regras essenciais: verbos, pronomes e concordância.</li> <li>Treine produção escrita com textos pequenos e correções.</li> <li>Leia diariamente para aumentar vocabulário e compreensão.</li> </ul>",
+    "media": "<p>Seu desempenho em Língua Portuguesa é bom, <b class='user'></b>. Continue assim para subir ainda mais!</p> <p><b class='user'></b>, siga estas orientações:</p> <ul> <li>Pratique análise de textos literários e não literários.</li> <li>Melhore coesão e clareza na escrita.</li> <li>Treine síntese e resumo, habilidades importantes para a 11ª.</li> <li>Continue ampliando vocabulário por meio de leituras variadas.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Língua Portuguesa, <b class='user'></b>! Continue mantendo esse nível.</p> <p><b class='user'></b>, para elevar ainda mais sua performance:</p> <ul> <li>Aprofunde estudo de figuras de linguagem e estilos literários.</li> <li>Produza textos mais longos e estruturados.</li> <li>Participe de debates, apresentações e atividades de argumentação.</li> <li>Leia romances, ensaios ou obras clássicas para expandir visão crítica.</li> </ul>"
+  }
+},
+{
+  "cat": "info10",
+  "subject": "port2",
+  "dicas": {
+    "baixa": "<p>Sua média em Língua Portuguesa está baixa, <b class='user'></b>, mas ainda dá para recuperar.</p> <p><b class='user'></b>, tente fazer o seguinte:</p> <ul> <li>Melhore leitura diária para desenvolver interpretação.</li> <li>Revise regras básicas de ortografia e acentuação.</li> <li>Pratique escrita com pequenos textos e resumos.</li> <li>Assista explicações curtas (vídeos, resumos) para reforçar gramática.</li> </ul>",
+    "media": "<p>Você está indo bem em Língua Portuguesa, <b class='user'></b>. Continue assim!</p> <p><b class='user'></b>, para subir ainda mais seu nível:</p> <ul> <li>Resolva exercícios de interpretação com frequência.</li> <li>Aprimore redação com textos organizados e coerentes.</li> <li>Leia mais para aumentar vocabulário e fluidez.</li> <li>Revise gramática intermediária: períodos compostos, pronomes e verbos.</li> </ul>",
+    "acima": "<p>Desempenho excelente em Língua Portuguesa, <b class='user'></b>! Continue evoluindo.</p> <p><b class='user'></b>, para manter-se entre os melhores:</p> <ul> <li>Leia obras literárias mais densas para aprofundar análise textual.</li> <li>Produza textos mais completos, explorando argumentação.</li> <li>Busque desafios extras, como concursos de redação.</li> <li>Amplie repertório cultural para enriquecer interpretação e escrita.</li> </ul>"
+  }
+},
+{
+  "cat": "info11",
+  "subject": "port3",
+  "dicas": {
+    "baixa": "<p>Sua média em Língua Portuguesa está baixa, <b class='user'></b>, mas pode melhorar com foco e disciplina.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Treine interpretação de textos, que é a base da disciplina.</li> <li>Revise concordância, regência e formação de palavras.</li> <li>Escreva pequenos textos para fortalecer estrutura e coesão.</li> <li>Leia com frequência para ampliar compreensão e vocabulário.</li> </ul>",
+    "media": "<p>Você está bem em Língua Portuguesa, <b class='user'></b>, mas ainda pode crescer.</p> <p><b class='user'></b>, siga estas sugestões:</p> <ul> <li>Aprofunde análise de textos argumentativos e literários.</li> <li>Capriche na organização e clareza da escrita.</li> <li>Exercite uso correto de pronomes, verbos e conectores.</li> <li>Mantenha rotina de leitura diversificada.</li> </ul>",
+    "acima": "<p>Excelente resultado em Língua Portuguesa, <b class='user'></b>! Continue assim.</p> <p><b class='user'></b>, para manter e elevar ainda mais seu nível:</p> <ul> <li>Aprofunde estudos de estilos literários, intertextualidade e análise crítica.</li> <li>Produza textos mais completos, com argumentos sólidos e boa articulação.</li> <li>Leia obras mais complexas para fortalecer capacidade interpretativa.</li> <li>Participe de debates, apresentações e atividades orais para melhorar comunicação.</li> </ul>"
+  }
+},
+{
+  "cat": "el10",
+  "subject": "emp",
+  "dicas": {
+    "baixa": "<p>Sua média em Empreendedorismo está baixa, <b class='user'></b>, mas é totalmente possível recuperar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Aprenda conceitos básicos de negócio e inovação.</li> <li>Pratique identificar oportunidades e problemas no dia a dia.</li> <li>Participe das atividades práticas e discussões em sala.</li> <li>Converse com o professor para esclarecer dúvidas sobre projetos ou ideias.</li> </ul>",
+    "media": "<p>Seu desempenho em Empreendedorismo é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Trabalhe na criação de ideias inovadoras e viáveis.</li> <li>Aprenda a planejar pequenos projetos e identificar riscos.</li> <li>Participe de atividades em grupo, fortalecendo colaboração.</li> <li>Estude casos de empreendedores reais para inspiração.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Empreendedorismo, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, para evoluir ainda mais:</p> <ul> <li>Desenvolva liderança e habilidades de tomada de decisão.</li> <li>Participe de desafios e projetos práticos de negócios.</li> <li>Aprenda a avaliar oportunidades e implementar soluções criativas.</li> <li>Compartilhe conhecimentos e ajude colegas a desenvolverem ideias.</li> </ul>"
+  }
+},
+{
+  "cat": "el11",
+  "subject": "emp1",
+  "dicas": {
+    "baixa": "<p>Sua média em Empreendedorismo está baixa, <b class='user'></b>, mas é possível recuperar com foco.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Estude conceitos de gestão, inovação e mercado.</li> <li>Observe oportunidades simples no dia a dia para exercitar criatividade.</li> <li>Participe mais das atividades práticas propostas em aula.</li> <li>Converse com o professor sobre como melhorar seus projetos.</li> </ul>",
+    "media": "<p>Você está indo bem em Empreendedorismo, <b class='user'></b>, mas pode evoluir ainda mais.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Crie projetos ou ideias próprias e teste pequenas soluções.</li> <li>Aprenda a identificar riscos e planejar ações estratégicas.</li> <li>Trabalhe em equipe, compartilhando ideias e soluções.</li> <li>Estude casos de empreendedores para inspiração e aprendizado.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Empreendedorismo, <b class='user'></b>! Continue assim.</p> <p><b class='user'></b>, para avançar ainda mais:</p> <ul> <li>Desenvolva habilidades de liderança e gestão de projetos.</li> <li>Participe de desafios e competições de empreendedorismo.</li> <li>Aplique técnicas de inovação em problemas reais.</li> <li>Oriente e inspire colegas com seus conhecimentos e experiências.</li> </ul>"
+  }
+},
+{
+  "cat": "info10",
+  "subject": "emp2",
+  "dicas": {
+    "baixa": "<p>Sua média em Empreendedorismo está baixa, <b class='user'></b>, mas ainda pode melhorar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Estude conceitos básicos de negócios, mercado e inovação.</li> <li>Observe oportunidades simples ao seu redor e pratique soluções criativas.</li> <li>Participe das atividades práticas propostas em aula.</li> <li>Converse com o professor para tirar dúvidas e receber orientações.</li> </ul>",
+    "media": "<p>Você está com desempenho bom em Empreendedorismo, <b class='user'></b>, mas pode avançar mais.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Trabalhe ideias próprias e desenvolva pequenos projetos.</li> <li>Aprenda a identificar riscos e planejar ações.</li> <li>Participe em grupo e compartilhe experiências.</li> <li>Estude casos de empreendedores para inspiração prática.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Empreendedorismo, <b class='user'></b>! Continue assim.</p> <p><b class='user'></b>, para ir ainda mais longe:</p> <ul> <li>Desenvolva liderança, gestão e tomada de decisão.</li> <li>Participe de desafios práticos de empreendedorismo.</li> <li>Aprenda a implementar soluções criativas em problemas reais.</li> <li>Ajude colegas a desenvolverem suas ideias e projetos.</li> </ul>"
+  }
+},
+{
+  "cat": "info11",
+  "subject": "emp3",
+  "dicas": {
+    "baixa": "<p>Sua média em Empreendedorismo está baixa, <b class='user'></b>, mas com dedicação é possível recuperar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Aprenda conceitos fundamentais de negócios, marketing e inovação.</li> <li>Identifique oportunidades simples e tente soluções práticas.</li> <li>Participe das atividades em grupo e pratique a colaboração.</li> <li>Peça orientação ao professor para melhorar seus projetos.</li> </ul>",
+    "media": "<p>Você está com desempenho bom em Empreendedorismo, <b class='user'></b>, mas ainda pode evoluir.</p> <p><b class='user'></b>, siga estas sugestões:</p> <ul> <li>Crie e teste ideias próprias, planejando cada etapa do projeto.</li> <li>Analise riscos e busque soluções criativas.</li> <li>Trabalhe em equipe, compartilhando estratégias e ideias.</li> <li>Estude exemplos de empreendedores de sucesso para inspiração.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Empreendedorismo, <b class='user'></b>! Continue avançando.</p> <p><b class='user'></b>, para ir ainda mais longe:</p> <ul> <li>Desenvolva liderança e habilidades de gestão de projetos.</li> <li>Participe de competições e desafios práticos.</li> <li>Aplique técnicas de inovação em problemas reais.</li> <li>Oriente colegas e compartilhe seus conhecimentos e experiências.</li> </ul>"
+  }
+},
+{
+  "cat": "el10",
+  "subject": "pol",
+  "dicas": {
+    "baixa": "<p>Sua média em Práticas Oficinais Laboratoriais está baixa, <b class='user'></b>, mas ainda é possível recuperar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Preste atenção aos procedimentos de segurança no laboratório.</li> <li>Revise os passos de cada prática antes de executá-la.</li> <li>Organize corretamente os materiais e equipamentos antes e depois do uso.</li> <li>Converse com o professor para esclarecer dúvidas sobre os experimentos.</li> </ul>",
+    "media": "<p>Você está com desempenho bom em Práticas Oficinais Laboratoriais, <b class='user'></b>, mas ainda pode evoluir.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Execute as práticas com atenção e precisão.</li> <li>Registre corretamente observações e resultados no relatório.</li> <li>Participe ativamente das discussões sobre os experimentos.</li> <li>Reveja protocolos e técnicas para reforçar aprendizado.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Práticas Oficinais Laboratoriais, <b class='user'></b>! Parabéns.</p> <p><b class='user'></b>, para se destacar ainda mais:</p> <ul> <li>Mantenha organização e disciplina exemplar durante as práticas.</li> <li>Analise resultados com atenção crítica e sugira melhorias.</li> <li>Ajude colegas com dificuldades e compartilhe boas práticas.</li> <li>Explore novos métodos ou técnicas além do exigido em aula.</li> </ul>"
+  }
+},
+{
+  "cat": "el11",
+  "subject": "pol1",
+  "dicas": {
+    "baixa": "<p>Sua média em Práticas Oficinais Laboratoriais está baixa, <b class='user'></b>, mas você pode melhorar com foco e atenção.</p> <p><b class='user'></b>, siga estas orientações:</p> <ul> <li>Revise procedimentos de segurança e técnicas laboratoriais antes das aulas.</li> <li>Observe atentamente demonstrações e anotações do professor.</li> <li>Organize todos os materiais corretamente antes e depois da prática.</li> <li>Peça orientação sempre que tiver dúvidas durante os experimentos.</li> </ul>",
+    "media": "<p>Bom desempenho em Práticas Oficinais Laboratoriais, <b class='user'></b>, mas você ainda pode evoluir.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Execute práticas com precisão, atenção aos detalhes e controle de equipamentos.</li> <li>Registre corretamente observações, medições e resultados.</li> <li>Participe ativamente das discussões e análises pós-experimento.</li> <li>Revise técnicas e métodos para consolidar aprendizado.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Práticas Oficinais Laboratoriais, <b class='user'></b>! Continue assim.</p> <p><b class='user'></b>, para se destacar ainda mais:</p> <ul> <li>Mantenha disciplina e organização exemplar durante todas as atividades.</li> <li>Analise criticamente resultados e proponha melhorias nos experimentos.</li> <li>Auxilie colegas, promovendo aprendizado colaborativo.</li> <li>Explore técnicas avançadas e práticas complementares quando possível.</li> </ul>"
+  }
+},
+{
+  "cat": "el11",
+  "subject": "dt1",
+  "dicas": {
+    "baixa": "<p>Sua média em Desenho Técnico está baixa, <b class='user'></b>, mas ainda é possível melhorar com dedicação.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Pratique interpretação de desenhos e esquemas básicos.</li> <li>Revise normas e convenções técnicas utilizadas em aula.</li> <li>Treine habilidades de precisão e proporção em desenhos à mão ou computador.</li> <li>Converse com o professor para esclarecer dúvidas sobre técnicas ou projetos.</li> </ul>",
+    "media": "<p>Você está com desempenho bom em Desenho Técnico, <b class='user'></b>, mas ainda pode evoluir.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Pratique desenhos detalhados, respeitando escalas e normas técnicas.</li> <li>Revise simbologias e convenções de representação gráfica.</li> <li>Participe ativamente das aulas práticas e exercícios.</li> <li>Observe trabalhos exemplares para aprimorar técnicas e precisão.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Desenho Técnico, <b class='user'></b>! Parabéns.</p> <p><b class='user'></b>, para se destacar ainda mais:</p> <ul> <li>Produza desenhos complexos com precisão e detalhamento.</li> <li>Utilize softwares de CAD ou ferramentas avançadas quando possível.</li> <li>Auxilie colegas e compartilhe boas práticas de desenho.</li> <li>Aprofunde conhecimentos em normas e técnicas de representação técnica.</li> </ul>"
+  }
+},
+{
+  "cat": "info11",
+  "subject": "dt3",
+  "dicas": {
+    "baixa": "<p>Sua média em Desenho Técnico está baixa, <b class='user'></b>, mas você ainda pode recuperar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Pratique leitura e interpretação de plantas e esquemas.</li> <li>Revise normas técnicas e convenções utilizadas em aula.</li> <li>Treine desenho à mão e precisão em medidas e proporções.</li> <li>Converse com o professor para esclarecer dúvidas e melhorar técnicas.</li> </ul>",
+    "media": "<p>Seu desempenho em Desenho Técnico é bom, <b class='user'></b>, mas pode evoluir ainda mais.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Pratique desenhos detalhados e completos, respeitando escalas e proporções.</li> <li>Aprenda a utilizar simbologias corretamente.</li> <li>Participe das aulas práticas com atenção e foco.</li> <li>Observe trabalhos de referência para aprimorar precisão e estilo.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Desenho Técnico, <b class='user'></b>! Continue assim.</p> <p><b class='user'></b>, para se destacar ainda mais:</p> <ul> <li>Produza desenhos complexos com alta precisão e detalhamento.</li> <li>Utilize softwares de CAD ou técnicas avançadas para melhorar o trabalho.</li> <li>Ajude colegas a melhorar habilidades de desenho técnico.</li> <li>Explore normas técnicas avançadas e aperfeiçoe representação gráfica.</li> </ul>"
+  }
+},
+{
+  "cat": "el10",
+  "subject": "el",
+  "dicas": {
+    "baixa": "<p>Sua média em Eletricidade e Electrónica está baixa, <b class='user'></b>, mas você pode recuperar com dedicação.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Revise conceitos básicos de circuitos, corrente, tensão e resistência.</li> <li>Pratique exercícios de cálculo de circuitos simples e série/paralelo.</li> <li>Participe ativamente das aulas práticas e experiências em laboratório.</li> <li>Converse com o professor para esclarecer dúvidas específicas sobre fórmulas ou esquemas.</li> </ul>",
+    "media": "<p>Seu desempenho em Eletricidade e Electrónica é bom, <b class='user'></b>, mas ainda pode evoluir.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Resolva exercícios mais complexos de circuitos e leis elétricas.</li> <li>Estude diagramas, esquemas e simbologias utilizadas nos circuitos.</li> <li>Participe das aulas práticas com atenção e registre corretamente os resultados.</li> <li>Revise fórmulas de Ohm, potência e associação de resistores para consolidar conhecimento.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Eletricidade e Electrónica, <b class='user'></b>! Parabéns.</p> <p><b class='user'></b>, para se destacar ainda mais:</p> <ul> <li>Resolva problemas desafiadores envolvendo circuitos mistos e análise avançada.</li> <li>Domine interpretação de esquemas elétricos complexos.</li> <li>Ajude colegas e compartilhe técnicas de resolução de problemas.</li> <li>Explore aplicações práticas da eletricidade e eletrónica no dia a dia.</li> </ul>"
+  }
+},
+{
+  "cat": "el11",
+  "subject": "el1",
+  "dicas": {
+    "baixa": "<p>Sua média em Eletricidade e Electrónica está baixa, <b class='user'></b>, mas ainda é possível recuperar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Revise fundamentos de corrente elétrica, tensão, resistência e leis de Ohm.</li> <li>Pratique cálculos de circuitos série, paralelo e mistos.</li> <li>Participe ativamente das aulas práticas e experimente montar circuitos simples.</li> <li>Converse com o professor sobre dúvidas em conceitos ou esquemas.</li> </ul>",
+    "media": "<p>Você está com desempenho bom em Eletricidade e Electrónica, <b class='user'></b>, mas ainda pode evoluir.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Resolva problemas mais avançados envolvendo circuitos complexos e leis elétricas.</li> <li>Aprenda a interpretar esquemas detalhados e simbologias técnicas.</li> <li>Mantenha atenção nas aulas práticas, registrando resultados com precisão.</li> <li>Estude fórmulas de potência, energia e associação de resistores para consolidar conhecimento.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Eletricidade e Electrónica, <b class='user'></b>! Continue assim.</p> <p><b class='user'></b>, para se destacar ainda mais:</p> <ul> <li>Resolva problemas desafiadores de circuitos elétricos e eletrónicos.</li> <li>Domine a interpretação de esquemas complexos e montagem de circuitos.</li> <li>Compartilhe conhecimentos com colegas e participe de projetos práticos.</li> <li>Explore aplicações reais de eletricidade e eletrónica, como automação ou eletrónica digital.</li> </ul>"
+  }
+},
+{
+  "cat": "el10",
+  "subject": "ttl",
+  "dicas": {
+    "baixa": "<p>Sua média em Tecnologias de Telecomunicações está baixa, <b class='user'></b>, mas é totalmente possível recuperar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Reveja conceitos básicos de sinais, ondas e transmissão de dados.</li> <li>Estude tipos de comunicação, como analógica e digital.</li> <li>Participe ativamente das aulas práticas para entender os equipamentos.</li> <li>Converse com o professor para esclarecer dúvidas sobre teoria e prática.</li> </ul>",
+    "media": "<p>Seu desempenho em Tecnologias de Telecomunicações é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Pratique análise de sinais e diagramas de transmissão.</li> <li>Aprenda a configurar equipamentos de telecomunicação básicos.</li> <li>Participe das atividades em grupo para desenvolver soluções práticas.</li> <li>Estude casos de sistemas de telecomunicações reais para inspiração.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Tecnologias de Telecomunicações, <b class='user'></b>! Parabéns.</p> <p><b class='user'></b>, para se destacar ainda mais:</p> <ul> <li>Explore configuração e análise de sistemas complexos de telecomunicações.</li> <li>Domine interpretação de sinais e esquemas de transmissão.</li> <li>Ajude colegas a compreender conceitos complexos e práticas laboratoriais.</li> <li>Participe de projetos avançados, simulando situações reais de telecomunicações.</li> </ul>"
+  }
+},
+{
+  "cat": "el11",
+  "subject": "ttl1",
+  "dicas": {
+    "baixa": "<p>Sua média em Tecnologias de Telecomunicações está baixa, <b class='user'></b>, mas ainda pode melhorar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Revise conceitos de ondas, sinais e transmissão de dados.</li> <li>Estude tipos de comunicação e protocolos utilizados em telecomunicações.</li> <li>Pratique com equipamentos e simulações básicas.</li> <li>Converse com o professor para esclarecer dúvidas teóricas e práticas.</li> </ul>",
+    "media": "<p>Você está com desempenho bom em Tecnologias de Telecomunicações, <b class='user'></b>, mas ainda pode evoluir.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Pratique interpretação de sinais e diagramas de sistemas.</li> <li>Aprenda a configurar e testar equipamentos de telecomunicação.</li> <li>Participe de atividades práticas em grupo para consolidar conhecimento.</li> <li>Estude exemplos de sistemas reais de telecomunicações para aprofundar compreensão.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Tecnologias de Telecomunicações, <b class='user'></b>! Continue assim.</p> <p><b class='user'></b>, para se destacar ainda mais:</p> <ul> <li>Explore análise e configuração de sistemas complexos de telecomunicações.</li> <li>Domine interpretação de sinais, protocolos e esquemas avançados.</li> <li>Auxilie colegas a compreender práticas e conceitos difíceis.</li> <li>Participe de projetos e simulações que reproduzam situações reais do setor.</li> </ul>"
+  }
+},
+{
+  "cat": "el10",
+  "subject": "infor",
+  "dicas": {
+    "baixa": "<p>Sua média em Informática da 10ª classe está baixa, <b class='user'></b>, mas é possível melhorar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Pratique mais programação básica (HTML, CSS, JavaScript).</li> <li>Melhore habilidades em edição de texto e planilhas (Word, Excel).</li> <li>Explore ferramentas de produtividade (Google Drive, Office 365).</li> <li>Converse com o professor para orientação direta.</li> </ul>",
+    "media": "<p>Seu desempenho em Informática da 10ª classe é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Aprofunde conhecimentos em programação (Python, Java).</li> <li>Desenvolva projetos pessoais (site, aplicativo).</li> <li>Participe de workshops e cursos online.</li> <li>Melhore habilidades em segurança digital.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Informática da 10ª classe, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, para evoluir ainda mais:</p> <ul> <li>Desenvolva habilidades em análise de dados (Excel, Python).</li> <li>Participe de projetos de inovação tecnológica.</li> <li>Aprenda sobre inteligência artificial e machine learning.</li> <li>Mentore colegas com dificuldades.</li> </ul>"
+  }
+},
+{
+  "cat": "el11",
+  "subject": "sd1",
+  "dicas": {
+    "baixa": "<p>Sua média em Sistemas Digitais da 11ª classe está baixa, <b class='user'></b>, mas é possível melhorar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Reforce conhecimentos em circuitos sequenciais e máquinas de estado.</li> <li>Pratique projetos de contadores e registradores.</li> <li>Estude funcionamento de memórias e dispositivos de armazenamento.</li> <li>Converse com o professor para orientação direta.</li> </ul>",
+    "media": "<p>Seu desempenho em Sistemas Digitais da 11ª classe é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Aprofunde conhecimentos em linguagens de descrição de hardware (VHDL, Verilog).</li> <li>Desenvolva projetos de sistemas digitais complexos.</li> <li>Participe de workshops e cursos online.</li> <li>Melhore habilidades em simulação e teste de circuitos.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Sistemas Digitais da 11ª classe, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, para evoluir ainda mais:</p> <ul> <li>Desenvolva projetos de sistemas embarcados avançados.</li> <li>Aprenda sobre inteligência artificial e machine learning em hardware.</li> <li>Participe de competições de inovação tecnológica.</li> <li>Mentore colegas com dificuldades.</li> </ul>"
+  }
+},
+{
+  "cat": "el11",
+  "subject": "tlp2",
+  "dicas": {
+    "baixa": "<p>Sua média em Tecnologias de Linguagens de Programação está baixa, <b class='user'></b>, mas é possível melhorar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Reforce conhecimentos em linguagens de programação (C++, Java, Python).</li> <li>Pratique desenvolvimento de projetos de software.</li> <li>Estude estruturas de dados e algoritmos.</li> <li>Converse com o professor para orientação direta.</li> </ul>",
+    "media": "<p>Seu desempenho em Tecnologias de Linguagens de Programação é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Aprofunde conhecimentos em desenvolvimento web (HTML, CSS, JavaScript).</li> <li>Desenvolva projetos de aplicativos móveis.</li> <li>Participe de workshops e cursos online.</li> <li>Melhore habilidades em banco de dados e SQL.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Tecnologias de Linguagens de Programação, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, para evoluir ainda mais:</p> <ul> <li>Desenvolva projetos de inteligência artificial e machine learning.</li> <li>Aprenda sobre segurança cibernética e proteção de dados.</li> <li>Participe de competições de programação.</li> <li>Mentore colegas com dificuldades.</li> </ul>"
+  }
+},
+{
+  "cat": "info10",
+  "subject": "seac2",
+  "dicas": {
+    "baixa": "<p>Sua média em SEAC está baixa, <b class='user'></b>, mas é possível melhorar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Reforce conhecimentos em arquitetura de computadores.</li> <li>Pratique análise de sistemas de exploração.</li> <li>Estude funcionamento de processadores e memórias.</li> <li>Converse com o professor para orientação direta.</li> </ul>",
+    "media": "<p>Seu desempenho em SEAC é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Aprofunde conhecimentos em sistemas operacionais.</li> <li>Desenvolva projetos de simulação de arquitetura.</li> <li>Participe de workshops e cursos online.</li> <li>Melhore habilidades em análise de desempenho.</li> </ul>",
+    "acima": "<p>Excelente desempenho em SEAC, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, para evoluir ainda mais:</p> <ul> <li>Desenvolva projetos de otimização de sistemas.</li> <li>Aprenda sobre segurança em arquitetura de computadores.</li> <li>Participe de competições de inovação tecnológica.</li> <li>Mentore colegas com dificuldades.</li> </ul>"
+  }
+},
+{
+  "cat": "info11",
+  "subject": "seac3",
+  "dicas": {
+    "baixa": "<p>Sua média em SEAC está baixa, <b class='user'></b>, mas é possível melhorar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Reforce conhecimentos em arquitetura avançada de computadores.</li> <li>Pratique desenvolvimento de sistemas de exploração.</li> <li>Estude funcionamento de redes e protocolos.</li> <li>Converse com o professor para orientação direta.</li> </ul>",
+    "media": "<p>Seu desempenho em SEAC é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Aprofunde conhecimentos em virtualização e cloud computing.</li> <li>Desenvolva projetos de segurança em sistemas.</li> <li>Participe de workshops e cursos online.</li> <li>Melhore habilidades em análise de vulnerabilidades.</li> </ul>",
+    "acima": "<p>Excelente desempenho em SEAC, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, para evoluir ainda mais:</p> <ul> <li>Desenvolva projetos de sistemas distribuídos.</li> <li>Aprenda sobre inteligência artificial em sistemas.</li> <li>Participe de competições de inovação tecnológica.</li> <li>Mentore colegas com dificuldades.</li> </ul>"
+  }
+},
+{
+  "cat": "info10",
+  "subject": "tic2",
+  "dicas": {
+    "baixa": "<p>Sua média em TIC está baixa, <b class='user'></b>, mas é possível melhorar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Reforce conhecimentos em uso de software de produtividade (Word, Excel, PowerPoint).</li> <li>Pratique habilidades em pesquisa online e segurança digital.</li> <li>Estude conceitos básicos de programação e algoritmos.</li> <li>Converse com o professor para orientação direta.</li> </ul>",
+    "media": "<p>Seu desempenho em TIC é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Aprofunde conhecimentos em desenvolvimento web (HTML, CSS).</li> <li>Desenvolva projetos de apresentação multimédia.</li> <li>Participe de workshops e cursos online.</li> <li>Melhore habilidades em gestão de informação.</li> </ul>",
+    "acima": "<p>Excelente desempenho em TIC, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, para evoluir ainda mais:</p> <ul> <li>Desenvolva projetos de aplicativos móveis.</li> <li>Aprenda sobre segurança cibernética e proteção de dados.</li> <li>Participe de competições de inovação tecnológica.</li> <li>Mentore colegas com dificuldades.</li> </ul>"
+  }
+},
+{
+  "cat": "info11",
+  "subject": "tic3",
+  "dicas": {
+    "baixa": "<p>Sua média em TIC está baixa, <b class='user'></b>, mas é possível melhorar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Reforce conhecimentos em programação avançada (Python, Java).</li> <li>Pratique desenvolvimento de projetos de software.</li> <li>Estude conceitos de banco de dados e SQL.</li> <li>Converse com o professor para orientação direta.</li> </ul>",
+    "media": "<p>Seu desempenho em TIC é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Aprofunde conhecimentos em inteligência artificial e machine learning.</li> <li>Desenvolva projetos de automação e robótica.</li> <li>Participe de workshops e cursos online.</li> <li>Melhore habilidades em análise de dados.</li> </ul>",
+    "acima": "<p>Excelente desempenho em TIC, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, para evoluir ainda mais:</p> <ul> <li>Desenvolva projetos de sistemas distribuídos.</li> <li>Aprenda sobre segurança avançada em TIC.</li> <li>Participe de competições de inovação tecnológica.</li> <li>Mentore colegas com dificuldades.</li> </ul>"
+  }
+},
+{
+  "cat": "info10",
+  "subject": "elctr2",
+  "dicas": {
+    "baixa": "<p>Sua média em Eletrotécnia está baixa, <b class='user'></b>, mas é possível melhorar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Reforce conhecimentos em circuitos elétricos básicos.</li> <li>Pratique cálculos de tensão, corrente e resistência.</li> <li>Estude funcionamento de componentes elétricos (resistores, capacitores).</li> <li>Converse com o professor para orientação direta.</li> </ul>",
+    "media": "<p>Seu desempenho em Eletrotécnia é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Aprofunde conhecimentos em análise de circuitos AC/DC.</li> <li>Desenvolva projetos de circuitos simples.</li> <li>Participe de workshops e cursos online.</li> <li>Melhore habilidades em segurança elétrica.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Eletrotécnia, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, para evoluir ainda mais:</p> <ul> <li>Desenvolva projetos de automação elétrica.</li> <li>Aprenda sobre eletrônica digital e microcontroladores.</li> <li>Participe de competições de inovação tecnológica.</li> <li>Mentore colegas com dificuldades.</li> </ul>"
+  }
+},
+{
+  "cat": "info11",
+  "subject": "elctr3",
+  "dicas": {
+    "baixa": "<p>Sua média em Eletrotécnia está baixa, <b class='user'></b>, mas é possível melhorar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Reforce conhecimentos em eletrônica avançada.</li> <li>Pratique projetos de sistemas embarcados.</li> <li>Estude funcionamento de motores e geradores.</li> <li>Converse com o professor para orientação direta.</li> </ul>",
+    "media": "<p>Seu desempenho em Eletrotécnia é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Aprofunde conhecimentos em automação industrial.</li> <li>Desenvolva projetos de controle de sistemas.</li> <li>Participe de workshops e cursos online.</li> <li>Melhore habilidades em programação de PLCs.</li> </ul>",
+    "acima": "<p>Excelente desempenho em Eletrotécnia, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, para evoluir ainda mais:</p> <ul> <li>Desenvolva projetos de eficiência energética.</li> <li>Aprenda sobre IoT e smart grids.</li> <li>Participe de competições de inovação tecnológica.</li> <li>Mentore colegas com dificuldades.</li> </ul>"
+  }
+},
+{
+  "cat": "info10",
+  "subject": "tic2",
+  "dicas": {
+    "baixa": "<p>Sua média em TIC está baixa, <b class='user'></b>, mas é possível melhorar.</p> <p><b class='user'></b>, siga estas ações:</p> <ul> <li>Reforce conhecimentos em uso de software de produtividade (Word, Excel, PowerPoint).</li> <li>Pratique habilidades em pesquisa online e segurança digital.</li> <li>Estude conceitos básicos de programação e algoritmos.</li> <li>Converse com o professor para orientação direta.</li> </ul>",
+    "media": "<p>Seu desempenho em TIC é bom, <b class='user'></b>, mas você pode ir além.</p> <p><b class='user'></b>, siga estas dicas:</p> <ul> <li>Aprofunde conhecimentos em desenvolvimento web (HTML, CSS).</li> <li>Desenvolva projetos de apresentação multimédia.</li> <li>Participe de workshops e cursos online.</li> <li>Melhore habilidades em gestão de informação.</li> </ul>",
+    "acima": "<p>Excelente desempenho em TIC, <b class='user'></b>. Parabéns!</p> <p><b class='user'></b>, para evoluir ainda mais:</p> <ul> <li>Desenvolva projetos de aplicativos móveis.</li> <li>Aprenda sobre segurança cibernética e proteção de dados.</li> <li>Participe de competições de inovação tecnológica.</li> <li>Mentore colegas com dificuldades.</li> </ul>"
+  }
+}
+
 ]

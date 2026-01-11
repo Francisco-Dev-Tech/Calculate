@@ -19,7 +19,7 @@ ul {
   border-radius: 15px;
   
   list-style: none;
-  
+  margin-bottom: 20px;
   
 }
 ul li {
@@ -27,11 +27,17 @@ ul li {
   text-align: center;
   color: black;
   font-size: 10pt;
-  background: #FFECDD;
-  margin-top: 8px;
-  width: 100%;
+  background: white;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  margin-top: 14px;
+  width: 95%;
   border-radius: 8px;
   padding: 8px;
+  transition: all 0.25s ease;
+}
+
+ul li:hover {
+  transform: translateY(-3%);
 }
 #bg {
   position: fixed;
@@ -105,7 +111,7 @@ body {
   border-radius: 10px;
   padding: 11px;
   font-size: 13px;
-  transition: all 0.15s ease-out;
+  transition: all 0.15s ease;
   justify-content: center;
   align-items: center;
   background: linear-gradient(120deg, #021560, #0014C5);
@@ -142,7 +148,7 @@ body {
   backdrop-filter: blur(50px);
   opacity: 0;
   background: rgba(32, 50, 255, 0.2);
-  transition: all .4s ease-out;
+  transition: all .4s ease;
 }
 
 #process span {
@@ -168,7 +174,7 @@ body {
   transform: translateX(120%);
   border-radius: 10px;
   color: black;
-  transition: 0.25s ease-out;
+  transition: 0.25s ease;
   position: relative;
   
 }
@@ -291,7 +297,7 @@ body {
   background: transparent;
   border-left: 2px solid white;
   border-radius: 50%;
-  transition: all 0.4s ease-out;
+  transition: all 0.4s ease;
   font-size: 14pt;
   animation: rotate 1s infinite linear;
   color: white;
@@ -315,7 +321,7 @@ body {
   width: 100%;
   justify-content: center;
   align-items: center;
-  transition: all 0.25s ease-out;
+  transition: all 0.25s ease;
 }
 .alerta p {
   background: white;
@@ -339,7 +345,7 @@ body {
     color: white;
     padding: 4px;
     border-radius: 10px;
-    transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease;
     
   }
   
@@ -366,7 +372,7 @@ body {
     backdrop-filter: blur(80px);
     
     background: rgba(255, 0, 0, 0.1);
-    transition: all 0.25s ease-out;
+    transition: all 0.25s ease;
   }
   #error section {
     display: flex;
@@ -409,7 +415,7 @@ body {
     color: blue;
     margin-top: 8px;
     margin-bottom: 16px;
-    transition: all 0.15s ease-out;
+    transition: all 0.15s ease;
   }
   #error section button:hover {
     transform: scale(1.05);
@@ -424,7 +430,7 @@ body {
     align-items: center;
     opacity: 0;
     backdrop-filter: blur(0px);
-    transition: all 0.25s ease-out;
+    transition: all 0.25s ease;
   
   }
   .data {
@@ -507,7 +513,7 @@ body {
     margin-bottom: 6px;
     font-size: 10pt;
     color: black;
-    transition: all 0.25s ease-out;
+    transition: all 0.25s ease;
   }
   .dica button {
     background: linear-gradient(120deg, rgba(2, 21, 96, 1), #0014C5);
@@ -522,7 +528,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.25s ease-out;
+    transition: all 0.25s ease;
   }
   .dica:hover {
     transform: translateY(-3%);
@@ -531,7 +537,7 @@ body {
   .dica button:hover {
     border: 0.5px solid #7E91DB;
   }
-  .exit, #exit {
+  .exit {
     display: none;
     opacity: 0;
     flex-direction: column;
@@ -546,15 +552,33 @@ body {
     background: rgba(255, 0, 0, 0.9);
     padding: 10px;
     border-radius: 50%;
-    transition: all 0.15s ease-out;
+    transition: all 0.15s ease;
     box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
     z-index: 20;
     animation: moveTop 1.7s infinite linear;
   }
+  
   #exit {
-    display: flex !important;
-    opacity: 1 !important;
-    z-index: 20 !important;
+    
+    display: none;
+    opacity: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    border: none;
+    background: rgba(255, 0, 0, 0.9);
+    padding: 10px;
+    border-radius: 50%;
+    transition: all 0.15s ease;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+    z-index: 150;
+    animation: moveTop 1.7s infinite linear;
+  
   }
   
   .exit:hover {
@@ -562,11 +586,9 @@ body {
     
 }
      #setDica {
-      position: absolute;
-      top: 0;
-      left: 0;
-      transition: all 0.25s ease-out;
-      height: 100vh;
+      
+      transition: all 0.25s ease;
+      min-height: 100vh;
       width: 100vw;
       backdrop-filter: blur(50px);
       transform: translate(0%);
@@ -579,28 +601,27 @@ body {
     }
     #card {
       background: linear-gradient(to bottom, #ffffff, #eaf2ff);
-      padding: 15px;
+    
       border-radius: 15px;
       box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
       transition: transform 0.3s ease, box-shadow 0.3s ease;
       text-align: center;
       width: 85%;
       height: auto;
-      position: absolute;
+      margin-bottom: 35px;
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      margin-top: 20px;
+      margin-top: 15px;
     }
     #dicaHello {
-      position: absolute;
-      top: 0;
-      left: 0;
+    
       background: linear-gradient(120deg, rgba(2, 21, 96, 1), #0014C5);
       
       border-top-left-radius: 15px;
-      width: 100%;
+      width: 1
+      95%;
       border-top-right-radius: 15px;
       padding: 10px;
       font-size: 17pt;
@@ -608,19 +629,30 @@ body {
     }
     
     #dd {
-      width: 100%;
-      margin-top: 90px;
+      width: 95%;
+      margin-top: 07px;
       color: black;
       font-size: 10.4pt;
-  
+      padding: 20px;
     }
     #newDica {
+      display: flex;
+      flex-direction: column;
       text-align: justify;
       margin: 0 !important;
       color: black !important;
-      font-size: 10pt !important;
+      font-size: 10pt
+      !important;
+      width: 95% !important;
       padding: 8px !important;
       margin-top: 8px;
+      gap: 8px
+    }
+    #newDica p {
+      display: block;
+      text-align: justify;
+      color: black;
+      width: 100%;
     }
     option {
        color: black;
@@ -653,8 +685,8 @@ body {
    .alerta p {
      grid-template-columns: 90% 10%;
      width: 75%;
+     
    }
-
 }
 
 
